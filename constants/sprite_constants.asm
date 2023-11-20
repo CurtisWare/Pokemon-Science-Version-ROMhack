@@ -51,11 +51,11 @@
 	const SPRITE_FISHER                  ; $2f
 	const SPRITE_REDA                    ; $30
 	const SPRITE_GUARD                   ; $31
-	const SPRITE_UNUSED_RED_2            ; $32
+	const SPRITE_KOOPA                   ; $32 SPRITE_UNUSED_RED_2
 	const SPRITE_MOM                     ; $33
 	const SPRITE_BALDING_GUY             ; $34
 	const SPRITE_LITTLE_BOY              ; $35
-	const SPRITE_UNUSED_RED_3            ; $36
+	const SPRITE_PEONY                   ; $36 SPRITE_UNUSED_RED_3
 	const SPRITE_GAMEBOY_KID             ; $37
 	const SPRITE_FAIRY                   ; $38
 	const SPRITE_RAEL                    ; $39
@@ -82,7 +82,7 @@ DEF FIRST_STILL_SPRITE EQU const_value
 	const SPRITE_SNORLAX                 ; $4d
 	const SPRITE_UNUSED_OLD_AMBER        ; $4e
 	const SPRITE_OLD_AMBER               ; $4f
-	const SPRITE_UNUSED_GAMBLER_ASLEEP_1 ; $50
-	const SPRITE_UNUSED_GAMBLER_ASLEEP_2 ; $51
+	const SPRITE_UNUSED_GAMBLER_ASLEEP_1 ; $50 SPRITE_UNUSED_GAMBLER_ASLEEP_1
+	const SPRITE_UNUSED_GAMBLER_ASLEEP_2 ; $51 SPRITE_UNUSED_GAMBLER_ASLEEP_2
 	const SPRITE_GAMBLER_ASLEEP          ; $52
 DEF NUM_SPRITES EQU const_value - 1

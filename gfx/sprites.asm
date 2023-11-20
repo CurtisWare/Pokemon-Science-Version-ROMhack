@@ -29,6 +29,9 @@ OldAmberSprite::         INCBIN "gfx/sprites/old_amber.2bpp"
 GamblerAsleepSprite::    INCBIN "gfx/sprites/gambler_asleep.2bpp"
 QuestionMarkSprite::     INCBIN "gfx/sprites/question_mark.2bpp"
 FangSprite::             INCBIN "gfx/sprites/fang.2bpp"
+KoopaSprite::            INCBIN "gfx/sprites/koopa.2bpp"
+PeonySprite::            INCBIN "gfx/sprites/peony.2bpp"
+
 
 
 SECTION "NPC Sprites 2", ROMX
@@ -60,19 +63,20 @@ RummySprite::            INCBIN "gfx/sprites/rummy.2bpp"
 RocketSprite::           INCBIN "gfx/sprites/rocket.2bpp"
 ChannelerSprite::        INCBIN "gfx/sprites/channeler.2bpp"
 WaiterSprite::           INCBIN "gfx/sprites/waiter.2bpp"
-MeatSprite::            INCBIN "gfx/sprites/meat.2bpp"
+MeatSprite::             INCBIN "gfx/sprites/meat.2bpp"
 MiddleAgedWomanSprite::  INCBIN "gfx/sprites/middle_aged_woman.2bpp"
 BrunetteGirlSprite::     INCBIN "gfx/sprites/brunette_girl.2bpp"
-KrimboSprite::            INCBIN "gfx/sprites/krimbo.2bpp"
+KrimboSprite::           INCBIN "gfx/sprites/krimbo.2bpp"
 MomSprite::              INCBIN "gfx/sprites/mom.2bpp"
 BaldingGuySprite::       INCBIN "gfx/sprites/balding_guy.2bpp"
 LittleBoySprite::        INCBIN "gfx/sprites/little_boy.2bpp"
 GameboyKidSprite::       INCBIN "gfx/sprites/gameboy_kid.2bpp"
 FairySprite::            INCBIN "gfx/sprites/fairy.2bpp"
-RaelSprite::           INCBIN "gfx/sprites/rael.2bpp"
-CallieSprite::            INCBIN "gfx/sprites/callie.2bpp"
-ColtSprite::          INCBIN "gfx/sprites/colt.2bpp"
+RaelSprite::             INCBIN "gfx/sprites/rael.2bpp"
+CallieSprite::           INCBIN "gfx/sprites/callie.2bpp"
+ColtSprite::             INCBIN "gfx/sprites/colt.2bpp"
 SeelSprite::             INCBIN "gfx/sprites/seel.2bpp"
+
 
 
 SECTION "NPC Sprites 3", ROMX

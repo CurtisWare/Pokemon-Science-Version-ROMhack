@@ -4,7 +4,6 @@
 DEF PHYSICAL EQU const_value
 	const NORMAL       ; $00
 	const FIGHTING     ; $01
-	const FLYING       ; $02
 	const POISON       ; $03
 	const GROUND       ; $04
 	const ROCK         ; $05
@@ -24,6 +23,7 @@ DEF SPECIAL EQU const_value
 	const PSYCHIC_TYPE ; $18
 	const ICE          ; $19
 	const DRAGON       ; $1A
+	const FLYING       ; $02
 	const STINKY       ; $1B
 	const HORNY        ; $1C
 DEF NUM_TYPES EQU const_value
