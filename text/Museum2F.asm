@@ -48,8 +48,8 @@ _Museum2FPikachuText2::
 	done
 
 _Museum2FText6::
-	text "SPACE SHUTTLE"
-	line "COLUMBIA"
+	text "THE ORIGINAL"
+	line "COOL S"
 	done
 
 _Museum2FText7::

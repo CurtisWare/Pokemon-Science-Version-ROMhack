@@ -73,7 +73,7 @@
 	const FARFETCHD          ; $40
 	const VENONAT            ; $41
 	const DRAGONITE          ; $42
-	const_skip               ; $43
+	const FREXEL             ; $43
 	const_skip               ; $44
 	const_skip               ; $45
 	const DODUO              ; $46

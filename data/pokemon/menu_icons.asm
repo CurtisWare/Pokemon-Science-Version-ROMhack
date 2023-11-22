@@ -159,5 +159,6 @@ MonPartyData:
 	nybble ICON_MON       ; Kreola
 	nybble ICON_MON       ; Gucha
 	nybble ICON_MON       ; Bud
+	nybble ICON_BIRD      ; Frexel
 
 	end_nybble_array NUM_POKEMON

@@ -3,7 +3,7 @@
 	db  80, 100,  70,  45,  50
 	;   hp  atk  def  spd  spc
 
-	db FIGHTING, FIGHTING ; type
+	db FIGHTING, HORNY ; type
 	db 90 ; catch rate
 	db 146 ; base exp
 

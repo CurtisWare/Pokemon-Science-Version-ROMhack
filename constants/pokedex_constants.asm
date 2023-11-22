@@ -163,5 +163,6 @@
 	const DEX_KREOLA     ; 157
 	const DEX_GUCHA      ; 158
 	const DEX_BUD        ; 159
+	const DEX_FREXEL     ; 160
 
 DEF NUM_POKEMON EQU const_value - 1

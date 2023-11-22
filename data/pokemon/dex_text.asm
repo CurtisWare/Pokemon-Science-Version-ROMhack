@@ -1586,3 +1586,13 @@ _BudDexEntry::
 	next "tail, it will try"
 	next "to bite you"
 	dex
+
+_FrexelDexEntry::
+	text "Lives where reedy"
+	next "plants grow. They"
+	next "are rarely seen,"
+
+	page "so it's thought"
+	next "their numbers are"
+	next "decreasing"
+	dex

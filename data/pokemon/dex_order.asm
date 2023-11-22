@@ -66,7 +66,7 @@ PokedexOrder:
 	db DEX_FARFETCHD
 	db DEX_VENONAT
 	db DEX_DRAGONITE
-	db 0 ; MISSINGNO.
+	db DEX_FREXEL
 	db 0 ; MISSINGNO.
 	db 0 ; MISSINGNO.
 	db DEX_DODUO

@@ -66,7 +66,7 @@ PokedexEntryPointers:
 	dw FarfetchdDexEntry
 	dw VenonatDexEntry
 	dw DragoniteDexEntry
-	dw MissingNoDexEntry
+	dw FrexelDexEntry
 	dw MissingNoDexEntry
 	dw MissingNoDexEntry
 	dw DoduoDexEntry
@@ -1308,6 +1308,13 @@ BudDexEntry:
 	db 1,4
 	dw 130
 	text_far _BudDexEntry
+	text_end
+
+FrexelDexEntry:
+	db "WILD DUCK@"
+	db 2,7
+	dw 330
+	text_far _FarfetchdDexEntry
 	text_end
 
 MissingNoDexEntry:

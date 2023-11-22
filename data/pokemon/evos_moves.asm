@@ -69,7 +69,7 @@ EvosMovesPointerTable:
 	dw FarfetchdEvosMoves
 	dw VenonatEvosMoves
 	dw DragoniteEvosMoves
-	dw MissingNo43EvosMoves
+	dw FrexelEvosMoves
 	dw MissingNo44EvosMoves
 	dw MissingNo45EvosMoves
 	dw DoduoEvosMoves
@@ -990,10 +990,15 @@ DragoniteEvosMoves:
 	db 60, HYPER_BEAM
 	db 0
 
-MissingNo43EvosMoves:
+FrexelEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
+	db 7, LEER
+	db 15, FURY_ATTACK
+	db 23, SWORDS_DANCE
+	db 31, AGILITY
+	db 39, SLASH
 	db 0
 
 MissingNo44EvosMoves:

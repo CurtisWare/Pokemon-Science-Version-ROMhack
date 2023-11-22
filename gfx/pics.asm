@@ -50,7 +50,8 @@ ArbokPicFront::       INCBIN "gfx/pokemon/front/arbok.pic"
 ArbokPicBack::        INCBIN "gfx/pokemon/back/arbokb.pic"
 PikachuPicFront::     INCBIN "gfx/pokemon/front/pikachu.pic"
 PikachuPicBack::      INCBIN "gfx/pokemon/back/pikachub.pic"
-GrimbullPic::     INCBIN "gfx/trainers/grimbull.pic"
+GrimbullPic::         INCBIN "gfx/trainers/grimbull.pic"
+
 
 
 SECTION "Pics 2", ROMX
@@ -105,6 +106,9 @@ VenomothPicFront::    INCBIN "gfx/pokemon/front/venomoth.pic"
 VenomothPicBack::     INCBIN "gfx/pokemon/back/venomothb.pic"
 DiglettPicFront::     INCBIN "gfx/pokemon/front/diglett.pic"
 DiglettPicBack::      INCBIN "gfx/pokemon/back/diglettb.pic"
+FrexelPicFront::      INCBIN "gfx/pokemon/front/frexel.pic"
+FrexelPicBack::       INCBIN "gfx/pokemon/back/frexelb.pic"
+
 
 
 
@@ -308,6 +312,7 @@ RaelPic::        INCBIN "gfx/trainers/rael.pic"
 
 
 
+
 SECTION "Pics 7", ROMX
 
 KrimboPic::         INCBIN "gfx/trainers/krimbo.pic"
@@ -331,4 +336,5 @@ GuchaPicFront::     INCBIN "gfx/pokemon/front/gucha.pic"
 GuchaPicBack::      INCBIN "gfx/pokemon/back/guchab.pic"
 BudPicFront::     INCBIN "gfx/pokemon/front/bud.pic"
 BudPicBack::      INCBIN "gfx/pokemon/back/budb.pic"
+
 
