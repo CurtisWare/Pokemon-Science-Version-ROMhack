@@ -70,8 +70,8 @@ EvosMovesPointerTable:
 	dw VenonatEvosMoves
 	dw DragoniteEvosMoves
 	dw FrexelEvosMoves
-	dw MissingNo44EvosMoves
-	dw MissingNo45EvosMoves
+	dw NellieEvosMoves
+	dw IcyEvosMoves
 	dw DoduoEvosMoves
 	dw PoliwagEvosMoves
 	dw JynxEvosMoves
@@ -1001,16 +1001,26 @@ FrexelEvosMoves:
 	db 39, SLASH
 	db 0
 
-MissingNo44EvosMoves:
+NellieEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
+	db 16, QUICK_ATTACK
+	db 21, ROAR
+	db 28, CONFUSE_RAY
+	db 35, FLAMETHROWER
+	db 42, FIRE_SPIN
 	db 0
 
-MissingNo45EvosMoves:
+IcyEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
+	db 63, BARRIER
+	db 66, PSYCHIC_M
+	db 70, RECOVER
+	db 75, MIST
+	db 81, AMNESIA
 	db 0
 
 DoduoEvosMoves:
@@ -1152,10 +1162,10 @@ PikachuEvosMoves:
 	db 9, QUICK_ATTACK
 	db 13, CROP_DUST
 	db 20, LAY_PIPE
-	db 26, MALD
-	db 33, AGILITY
+	db 26, LAY_PIPE ; MALD
+	db 33, CROP_DUST ; AGILITY
 	db 41, BAJA_BLAST
-	db 50, LIGHT_SCREEN
+	db 50, SWIFT ; LIGHT_SCREEN
 	db 0
 
 RaichuEvosMoves:

@@ -160,5 +160,7 @@ MonPartyData:
 	nybble ICON_MON       ; Gucha
 	nybble ICON_MON       ; Bud
 	nybble ICON_BIRD      ; Frexel
+	nybble ICON_MON       ; Nellie
+	nybble ICON_MON       ; Icy
 
 	end_nybble_array NUM_POKEMON

@@ -160,6 +160,8 @@ TentacoolPicFront::   INCBIN "gfx/pokemon/front/tentacool.pic"
 TentacoolPicBack::    INCBIN "gfx/pokemon/back/tentacoolb.pic"
 TentacruelPicFront::  INCBIN "gfx/pokemon/front/tentacruel.pic"
 TentacruelPicBack::   INCBIN "gfx/pokemon/back/tentacruelb.pic"
+NelliePicFront::      INCBIN "gfx/pokemon/front/nellie.pic"
+NelliePicBack::       INCBIN "gfx/pokemon/back/nellieb.pic"
 
 
 
@@ -213,6 +215,8 @@ DrowzeePicFront::    INCBIN "gfx/pokemon/front/drowzee.pic"
 DrowzeePicBack::     INCBIN "gfx/pokemon/back/drowzeeb.pic"
 HypnoPicFront::      INCBIN "gfx/pokemon/front/hypno.pic"
 HypnoPicBack::       INCBIN "gfx/pokemon/back/hypnob.pic"
+IcyPicFront::        INCBIN "gfx/pokemon/front/icy.pic"
+IcyPicBack::         INCBIN "gfx/pokemon/back/icyb.pic"
 
 
 

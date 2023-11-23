@@ -161,6 +161,8 @@ MonsterPalettes:
 	db PAL_PERSIAN     ; GUCHA
 	db PAL_RATICATE    ; BUD
 	db PAL_TENTACOOL   ; FREXEL
+	db PAL_PIDGEY      ; NELLIE
+	db PAL_ARTICUNO    ; ICY
 
 	assert_table_length NUM_POKEMON + 1
 

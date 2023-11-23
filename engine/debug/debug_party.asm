@@ -17,7 +17,7 @@ DebugTeam:
 	db SNORLAX, 80
 	db PERSIAN, 80
 	db JIGGLYPUFF, 15
-	db STARTER_PIKACHU, 5
+	db STARTER_PIKACHU, 99
 	db -1 ; end
 
 DebugStart:

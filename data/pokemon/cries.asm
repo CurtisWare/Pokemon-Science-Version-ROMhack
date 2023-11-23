@@ -73,8 +73,8 @@ CryData::
 	mon_cry SFX_CRY_1A, $44, $40 ; Venonat
 	mon_cry SFX_CRY_0F, $3C, $C0 ; Dragonite
 	mon_cry SFX_CRY_10, $DD, $01 ; Frexel
-	mon_cry SFX_CRY_00, $00, $00 ; MissingNo.
-	mon_cry SFX_CRY_1D, $E0, $80 ; MissingNo.
+	mon_cry SFX_CRY_24, $88, $60 ; Nellie
+	mon_cry SFX_CRY_09, $80, $40 ; Icy
 	mon_cry SFX_CRY_0B, $BB, $01 ; Doduo
 	mon_cry SFX_CRY_0E, $FF, $FF ; Poliwag
 	mon_cry SFX_CRY_0D, $FF, $FF ; Jynx

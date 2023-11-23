@@ -1596,3 +1596,23 @@ _FrexelDexEntry::
 	next "their numbers are"
 	next "decreasing"
 	dex
+
+_NellieDexEntry::
+	text "According to an"
+	next "enduring legend,"
+	next "9 noble saints"
+
+	page "were united and"
+	next "reincarnated as"
+	next "this #MON"
+	dex
+
+_IcyDexEntry::
+	text "According to an"
+	next "enduring legend,"
+	next "9 noble saints"
+
+	page "were united and"
+	next "reincarnated as"
+	next "this #MON"
+	dex

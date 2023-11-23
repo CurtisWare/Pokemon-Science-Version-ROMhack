@@ -164,5 +164,7 @@
 	const DEX_GUCHA      ; 158
 	const DEX_BUD        ; 159
 	const DEX_FREXEL     ; 160
+	const DEX_NELLIE     ; 161
+	const DEX_ICY        ; 162
 
 DEF NUM_POKEMON EQU const_value - 1

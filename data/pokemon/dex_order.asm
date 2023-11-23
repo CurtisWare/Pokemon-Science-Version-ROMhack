@@ -67,8 +67,8 @@ PokedexOrder:
 	db DEX_VENONAT
 	db DEX_DRAGONITE
 	db DEX_FREXEL
-	db 0 ; MISSINGNO.
-	db 0 ; MISSINGNO.
+	db DEX_NELLIE
+	db DEX_ICY
 	db DEX_DODUO
 	db DEX_POLIWAG
 	db DEX_JYNX

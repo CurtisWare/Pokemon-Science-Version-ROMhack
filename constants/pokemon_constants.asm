@@ -74,8 +74,8 @@
 	const VENONAT            ; $41
 	const DRAGONITE          ; $42
 	const FREXEL             ; $43
-	const_skip               ; $44
-	const_skip               ; $45
+	const NELLIE             ; $44 NELLIE
+	const ICY                ; $45 ICY
 	const DODUO              ; $46
 	const POLIWAG            ; $47
 	const JYNX               ; $48

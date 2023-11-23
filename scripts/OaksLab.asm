@@ -1021,7 +1021,7 @@ OaksLabText18:
 	call PrintText
 	xor a
 	ld [wMonDataLocation], a
-	ld a, 5
+	ld a, 90 ; Change this back to 5
 	ld [wCurEnemyLVL], a
 	ld a, STARTER_PIKACHU
 	ld [wd11e], a
