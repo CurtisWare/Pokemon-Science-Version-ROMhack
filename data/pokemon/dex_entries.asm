@@ -78,7 +78,7 @@ PokedexEntryPointers:
 	dw DittoDexEntry
 	dw MeowthDexEntry
 	dw KrabbyDexEntry
-	dw MissingNoDexEntry
+	dw BillyDexEntry
 	dw MissingNoDexEntry
 	dw MissingNoDexEntry
 	dw VulpixDexEntry
@@ -1329,6 +1329,13 @@ IcyDexEntry:
 	db 4,3
 	dw 2
 	text_far _IcyDexEntry
+	text_end
+
+BillyDexEntry:
+	db "GAS@"
+	db 4,3
+	dw 2
+	text_far _BillyDexEntry
 	text_end
 
 MissingNoDexEntry:

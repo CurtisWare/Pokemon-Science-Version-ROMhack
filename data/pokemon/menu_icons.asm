@@ -162,5 +162,6 @@ MonPartyData:
 	nybble ICON_BIRD      ; Frexel
 	nybble ICON_MON       ; Nellie
 	nybble ICON_MON       ; Icy
+	nybble ICON_BALL      ; Billy 
 
 	end_nybble_array NUM_POKEMON

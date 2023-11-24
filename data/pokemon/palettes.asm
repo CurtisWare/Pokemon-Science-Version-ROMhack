@@ -155,14 +155,15 @@ MonsterPalettes:
 	db PAL_PIKACHU     ; PIKACHU
 	db PAL_EEVEE       ; MEATHEAD
 	db PAL_ARCANINE    ; NUGGZ
-	db PAL_EXEGGUTOR   ; CANNOLI
+	db PAL_KOOPA   ; CANNOLI
 	db PAL_GASTLY      ; LITTERBUG
 	db PAL_PERSIAN     ; KREOLA
-	db PAL_PERSIAN     ; GUCHA
-	db PAL_RATICATE    ; BUD
+	db PAL_FANG     ; GUCHA
+	db PAL_RATTATA     ; BUD
 	db PAL_TENTACOOL   ; FREXEL
 	db PAL_PIDGEY      ; NELLIE
 	db PAL_ARTICUNO    ; ICY
+	db PAL_GREYMON     ; BILLY
 
 	assert_table_length NUM_POKEMON + 1
 

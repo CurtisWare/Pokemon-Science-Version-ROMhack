@@ -1,6 +1,6 @@
 _MtMoonJessieJamesText1::
 	text "NELSON: HEY KID!"
-	line "Stop right there!"
+	line "Stop right there!@"
 	text_end
 
 _MtMoonJessieJamesText2::
@@ -17,8 +17,8 @@ _MtMoonJessieJamesText2::
 	done
 
 _MtMoonJessieJamesText3::
-	text "BODEGA NELSON:"
-	line "WHOA? WHAT?"
+	text "WHOA!"
+	line "WHAT?"
 	prompt
 
 _MtMoonJessieJamesText4::

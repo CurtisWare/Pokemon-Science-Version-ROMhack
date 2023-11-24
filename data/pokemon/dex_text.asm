@@ -1616,3 +1616,13 @@ _IcyDexEntry::
 	next "reincarnated as"
 	next "this #MON"
 	dex
+
+_BillyDexEntry::
+	text "According to an"
+	next "enduring legend,"
+	next "9 noble saints"
+
+	page "were united and"
+	next "reincarnated as"
+	next "this #MON"
+	dex

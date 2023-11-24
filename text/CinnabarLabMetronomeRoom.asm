@@ -30,9 +30,9 @@ _TM35NoRoomText::
 	done
 
 _Lab3Text2::
-	text "EEVEE can evolve"
-	line "into 1 of 3 kinds"
-	cont "of #MON."
+	text "Meatheads can "
+	line "evolve into 3 "
+	cont "kinds of #MON."
 	done
 
 _Lab3Text3::

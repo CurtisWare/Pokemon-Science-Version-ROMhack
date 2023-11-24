@@ -39,53 +39,102 @@ PikaPicAnimationScriptPointerLookupTable:
 ; First byte: happiness threshold
 ; Remaining bytes: loaded based on Pikachu's mood
 	db 50
-	dpikapic PikaPicAnimScript14
-	dpikapic PikaPicAnimScript14
-	dpikapic PikaPicAnimScript6
-	dpikapic PikaPicAnimScript13
-	dpikapic PikaPicAnimScript13
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
 
 	db 100
-	dpikapic PikaPicAnimScript9
-	dpikapic PikaPicAnimScript9
-	dpikapic PikaPicAnimScript5
-	dpikapic PikaPicAnimScript12
-	dpikapic PikaPicAnimScript12
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
 
 	db 130
-	dpikapic PikaPicAnimScript3
-	dpikapic PikaPicAnimScript3
-	dpikapic PikaPicAnimScript1
-	dpikapic PikaPicAnimScript8
-	dpikapic PikaPicAnimScript8
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
 
 	db 160
-	dpikapic PikaPicAnimScript3
-	dpikapic PikaPicAnimScript3
-	dpikapic PikaPicAnimScript4
-	dpikapic PikaPicAnimScript15
-	dpikapic PikaPicAnimScript15
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
 
 	db 200
-	dpikapic PikaPicAnimScript17
-	dpikapic PikaPicAnimScript17
-	dpikapic PikaPicAnimScript7
-	dpikapic PikaPicAnimScript2
-	dpikapic PikaPicAnimScript2
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
 
 	db 250
-	dpikapic PikaPicAnimScript17
-	dpikapic PikaPicAnimScript17
-	dpikapic PikaPicAnimScript16
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
 	dpikapic PikaPicAnimScript10
 	dpikapic PikaPicAnimScript10
 
 	db 255
-	dpikapic PikaPicAnimScript17
-	dpikapic PikaPicAnimScript17
-	dpikapic PikaPicAnimScript19
-	dpikapic PikaPicAnimScript20
-	dpikapic PikaPicAnimScript20
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
+	dpikapic PikaPicAnimScript10
+
+	; db 50
+	; dpikapic PikaPicAnimScript14
+	; dpikapic PikaPicAnimScript14
+	; dpikapic PikaPicAnimScript6
+	; dpikapic PikaPicAnimScript13
+	; dpikapic PikaPicAnimScript13
+
+	; db 100
+	; dpikapic PikaPicAnimScript9
+	; dpikapic PikaPicAnimScript9
+	; dpikapic PikaPicAnimScript5
+	; dpikapic PikaPicAnimScript12
+	; dpikapic PikaPicAnimScript12
+
+	; db 130
+	; dpikapic PikaPicAnimScript3
+	; dpikapic PikaPicAnimScript3
+	; dpikapic PikaPicAnimScript1
+	; dpikapic PikaPicAnimScript8
+	; dpikapic PikaPicAnimScript8
+
+	; db 160
+	; dpikapic PikaPicAnimScript3
+	; dpikapic PikaPicAnimScript3
+	; dpikapic PikaPicAnimScript4
+	; dpikapic PikaPicAnimScript15
+	; dpikapic PikaPicAnimScript15
+
+	; db 200
+	; dpikapic PikaPicAnimScript17
+	; dpikapic PikaPicAnimScript17
+	; dpikapic PikaPicAnimScript7
+	; dpikapic PikaPicAnimScript2
+	; dpikapic PikaPicAnimScript2
+
+	; db 250
+	; dpikapic PikaPicAnimScript17
+	; dpikapic PikaPicAnimScript17
+	; dpikapic PikaPicAnimScript16
+	; dpikapic PikaPicAnimScript10
+	; dpikapic PikaPicAnimScript10
+
+	; db 255
+	; dpikapic PikaPicAnimScript17
+	; dpikapic PikaPicAnimScript17
+	; dpikapic PikaPicAnimScript19
+	; dpikapic PikaPicAnimScript20
+	; dpikapic PikaPicAnimScript20
 
 StarterPikachuEmotionCommand_pikapic:
 	ldh a, [hAutoBGTransferEnabled]

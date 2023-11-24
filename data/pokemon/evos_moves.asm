@@ -81,7 +81,7 @@ EvosMovesPointerTable:
 	dw DittoEvosMoves
 	dw MeowthEvosMoves
 	dw KrabbyEvosMoves
-	dw MissingNo4FEvosMoves
+	dw BillyEvosMoves
 	dw MissingNo50EvosMoves
 	dw MissingNo51EvosMoves
 	dw VulpixEvosMoves
@@ -1118,10 +1118,15 @@ KrabbyEvosMoves:
 	db 40, HARDEN
 	db 0
 
-MissingNo4FEvosMoves:
+BillyEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
+	db 32, SLUDGE
+	db 37, SMOKESCREEN
+	db 40, SELFDESTRUCT
+	db 45, HAZE
+	db 48, EXPLOSION
 	db 0
 
 MissingNo50EvosMoves:

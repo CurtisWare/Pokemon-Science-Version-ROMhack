@@ -73,7 +73,7 @@ DEF SET_PAL_DEFAULT EQU $ff
 	const PAL_CAVE      ; $23
 	const PAL_GAMEFREAK ; $24
 	const PAL_25        ; $25
-	const PAL_26        ; $26
+	const PAL_26        ; $26 PIKACHU'S EMOTES
 	const PAL_27        ; $27
 	const PAL_BULBASAUR  ; $28
 	const PAL_IVYSAUR    ; $29

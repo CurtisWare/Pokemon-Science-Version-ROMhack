@@ -43,7 +43,7 @@ _Route22CoquiBeforeBattleText1::
 	cont "have any BADGEs!"
 
 	para "You need uh..."
-	line "ocho of them!"
+	line "OCHO of them!"
 
 	para "By the way, did"
 	line "that BIRD"

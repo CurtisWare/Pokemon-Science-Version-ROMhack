@@ -66,6 +66,6 @@ TrainerNamePointers:
 .BlackbeltName:     db "BLACKBELT@"
 .ProfOakName:       db "OWO@"
 .ScientistName:     db "SCIENTIST@"
-.RocketName:        db "ROCKET@"
+.RocketName:        db "SOUTHSIDER@"
 .CooltrainerMName:  db "COOLTRAINER♂@"
 .CooltrainerFName:  db "COOLTRAINER♀@"

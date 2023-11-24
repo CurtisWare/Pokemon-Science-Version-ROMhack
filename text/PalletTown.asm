@@ -42,10 +42,10 @@ _PalletTownText3::
 	text "Technology is"
 	line "incredible!"
 
-	para "You can now store"
-	line "and recall items"
-	cont "and #MON as"
-	cont "data via PC!"
+	para "You can now"
+	line "stream videogames"
+	cont "online as a"
+	cont "vtuber!"
 	done
 
 _PalletTownText4::

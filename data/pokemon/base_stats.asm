@@ -162,4 +162,5 @@ INCLUDE "data/pokemon/base_stats/bud.asm"
 INCLUDE "data/pokemon/base_stats/frexel.asm"
 INCLUDE "data/pokemon/base_stats/nellie.asm"
 INCLUDE "data/pokemon/base_stats/icy.asm"
+INCLUDE "data/pokemon/base_stats/billy.asm"
 	assert_table_length NUM_POKEMON

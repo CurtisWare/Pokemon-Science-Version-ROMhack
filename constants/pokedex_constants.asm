@@ -166,5 +166,6 @@
 	const DEX_FREXEL     ; 160
 	const DEX_NELLIE     ; 161
 	const DEX_ICY        ; 162
+	const DEX_BILLY      ; 163
 
 DEF NUM_POKEMON EQU const_value - 1

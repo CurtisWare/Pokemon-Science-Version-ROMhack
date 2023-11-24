@@ -78,7 +78,7 @@ PokedexOrder:
 	db DEX_DITTO
 	db DEX_MEOWTH
 	db DEX_KRABBY
-	db 0 ; MISSINGNO.
+	db DEX_BILLY
 	db 0 ; MISSINGNO.
 	db 0 ; MISSINGNO.
 	db DEX_VULPIX
