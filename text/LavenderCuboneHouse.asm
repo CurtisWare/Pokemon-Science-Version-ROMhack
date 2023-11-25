@@ -3,15 +3,16 @@ _LavenderHouse2Text1::
 	text_end
 
 _LavenderHouse2Text_1d9dc::
-	text "I hate those"
-	line "horrible ROCKETs!"
+	text "I hate that"
+	line "darn SOUTHSIDE!"
 
 	para "That poor CUBONE's"
 	line "mother..."
 
-	para "It was killed"
-	line "trying to escape"
-	cont "from TEAM ROCKET!"
+	para "They all took"
+	line "turns pointing"
+	cont "and calling it"
+	cont "LITTLE MAN!"
 	done
 
 _LavenderHouse2Text_1d9e1::

@@ -4,8 +4,8 @@ ViridianForestWildMons:
 	db  4, WEEDLE ;Wee
 	db  4, METAPOD ;met
 	db  5, KAKUNA ;kak
-	db  4, BIRDROBOT
-	db  6, BIRDROBOT
+	db  4, PIKACHU
+	db  6, PIKACHU
 	db  6, CATERPIE
 	db  6, WEEDLE
 	db  8, PIDGEY

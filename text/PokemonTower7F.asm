@@ -1,16 +1,17 @@
 _PokemonTowerJessieJamesText1::
-	text "Stop right there!@"
+	text "NELSON: HOLD UP!@"
 	text_end
 
 _PokemonTowerJessieJamesText2::
-	text "Grampa here wanted"
-	line "to complain, so"
-	cont "we're setting him"
-	cont "straight."
+	text "BODEGA: RRRRR!"
+	line "We have some"
+	cont "unfinished biz"
+	cont "with the old guy!"
 
-	para "So render yourself"
-	line "invisible, or"
-	cont "prepare to fight!"
+	para "NELSON: So back"
+	line "off or we're"
+	cont "takin' you to"
+	cont "Denny's!"
 	done
 
 _PokemonTowerJessieJamesText3::
@@ -19,9 +20,9 @@ _PokemonTowerJessieJamesText3::
 	prompt
 
 _PokemonTowerJessieJamesText4::
-	text "Looks like TEAM"
-	line "ROCKET's blasting"
-	cont "off again!@"
+	text "Looks like the"
+	line "SOUTHSIDE better"
+	cont "scram!@"
 	text_end
 
 _TowerRescueFujiText::

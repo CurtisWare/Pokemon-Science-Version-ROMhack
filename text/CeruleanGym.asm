@@ -28,7 +28,7 @@ _TM11ExplanationText::
 	done
 
 _KoopaCascadeBadgeInfoText::
-	text "The CASCADEBADGE"
+	text "The ROSEBADGE"
 	line "makes all #MON"
 	cont "up to L30 obey!"
 
@@ -64,7 +64,7 @@ _ReceivedCascadeBadgeText::
 	para "All right!"
 
 	para "You can have the"
-	line "CASCADEBADGE to"
+	line "ROSEBADGE to"
 	cont "show you beat me!"
 	prompt
 

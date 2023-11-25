@@ -1,7 +1,7 @@
 _PewterPokecenterText2::
 	text "What!?"
 
-	para "STOOPKIDS are"
+	para "The SOUTHSIDE is"
 	line "at MT.MOON? Huh?"
 	cont "I'm on the phone!"
 

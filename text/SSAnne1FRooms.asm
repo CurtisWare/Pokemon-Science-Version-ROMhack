@@ -101,5 +101,6 @@ _SSAnne8Text11::
 	line "POLICE agent!"
 
 	para "I'm on the trail"
-	line "of TEAM ROCKET!"
+	line "of the"
+	cont "SOUTHSIDE!"
 	done

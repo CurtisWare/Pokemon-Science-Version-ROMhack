@@ -3,14 +3,14 @@
 	db  35,  55,  30,  90,  50
 	;   hp  atk  def  spd  spc
 
-	db FLYING, STINKY ; type
+	db ELECTRIC, ELECTRIC ; type
 	db 190 ; catch rate
 	db 82 ; base exp
 
 	INCBIN "gfx/pokemon/front/pikachu.pic", 0, 1 ; sprite dimensions
 	dw PikachuPicFront, PikachuPicBack
 
-	db GUST, WAO, NO_MOVE, NO_MOVE ; level 1 learnset
+	db THUNDERSHOCK, GROWL, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_FAST ; growth rate
 
 	; tm/hm learnset
@@ -18,7 +18,7 @@
 	     DOUBLE_EDGE,  PAY_DAY,      SUBMISSION,   SEISMIC_TOSS, RAGE,         \
 	     THUNDERBOLT,  THUNDER,      MIMIC,        DOUBLE_TEAM,  REFLECT,      \
 	     BIDE,         SWIFT,        SKULL_BASH,   REST,         THUNDER_WAVE, \
-	     SUBSTITUTE,   FLASH,        FLY
+	     SUBSTITUTE,   FLASH
 	; end
 
 	db BANK(PikachuPicFront)

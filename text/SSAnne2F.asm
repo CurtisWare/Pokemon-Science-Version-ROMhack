@@ -12,39 +12,39 @@ _SSAnneCoquiBeforeBattleText::
 	text "<COQUI>: Bonjour!"
 	line "<PLAYER>!"
 
-	para "Imagine seeing"
-	line "you here!"
+	para "Yes, thats French"
+	line "I'm speaking..."
 
-	para "<PLAYER>, were you"
-	line "really invited?"
+	para "and no..."
+	line "I'm not French."
 
-	para "So how's your"
-	line "#DEX coming?"
+	para "I'm from"
+	line "New Jersey!"
 
-	para "I already caught"
-	line "40 kinds, pal!"
+	para "I've acquired"
+	line "amazing new"
 
-	para "Different kinds"
-	line "are everywhere!"
+	para "language skills"
+	line "from Muzzy!"
 
-	para "Crawl around in"
-	line "grassy areas!"
+	para "I know!"
+	line "I'll show you!"
 	done
 
 _SSAnneCoquiDefeatedText::
-	text "Humph!"
+	text "S..."
 
-	para "At least you're"
-	line "raising your"
-	cont "#MON!"
+	para "Sacre Bleu!"
+	line "That's"
+	cont "incroyable!"
 	prompt
 
 _SSAnneCoquiWonText::
-	text "<PLAYER>! What are"
-	line "you, seasick?"
+	text "<PLAYER>! You'll"
+	line "never perfect"
 
-	para "You should shape"
-	line "up, pal!"
+	para "your French"
+	line "like that!!"
 	prompt
 
 _SSAnneCoquiCaptainText::
@@ -59,5 +59,5 @@ _SSAnneCoquiCaptainText::
 	line "really useful!"
 
 	para "You should go see"
-	line "him! Smell ya!"
+	line "him! Suck it!"
 	done

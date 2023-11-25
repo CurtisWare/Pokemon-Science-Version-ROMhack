@@ -55,7 +55,7 @@ _CeruleanCityText_19677::
 
 	para "Well, I better"
 	line "get rolling!"
-	cont "Smell ya later!"
+	cont "Shock me Harder!"
 	done
 
 _CeruleanCityText_196d9::

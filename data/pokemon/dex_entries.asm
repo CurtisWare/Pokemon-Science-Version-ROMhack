@@ -30,7 +30,7 @@ PokedexEntryPointers:
 	dw BlastoiseDexEntry
 	dw PinsirDexEntry
 	dw TangelaDexEntry
-	dw BirdRobotDexEntry
+	dw PikachuDexEntry
 	dw MeatheadDexEntry
 	dw GrowlitheDexEntry
 	dw OnixDexEntry
@@ -83,7 +83,7 @@ PokedexEntryPointers:
 	dw MissingNoDexEntry
 	dw VulpixDexEntry
 	dw NinetalesDexEntry
-	dw PikachuDexEntry
+	dw BirdRobotDexEntry
 	dw RaichuDexEntry
 	dw MissingNoDexEntry
 	dw MissingNoDexEntry

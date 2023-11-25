@@ -2,8 +2,8 @@ PokemonTower5FWildMons:
 	def_grass_wildmons 15 ; encounter rate
 	db 22, GASTLY
 	db 23, GASTLY
-	db 24, GASTLY
-	db 25, GASTLY
+	db 24, ICY
+	db 25, ICY
 	db 26, GASTLY
 	db 21, GASTLY
 	db 20, CUBONE

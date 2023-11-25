@@ -7,17 +7,17 @@ _LTPeonyPreBattleText::
 	cont "down Taco Bell!"
 
 	para "Hahaha! You've got"
-	line "big and brassy"
-	cont "nerves to take me"
+	line "big and stinky"
+	cont "balls to take me"
 	cont "on with your puny"
 	cont "power!"
 
 	para "A #MON battle"
 	line "is war! I'll show"
-	cont "you, civilian!"
+	cont "you, dingus!"
 
-	para "I'll shock you"
-	line "into surrender!"
+	para "I'll stinky you"
+	line "right up!"
 	done
 
 _LTPeonyPostBattleAdviceText::
@@ -84,7 +84,7 @@ _ReceivedThunderBadgeText::
 _VermilionGymBattleText1::
 	text "When I was in the"
 	line "Litterbugs, PEONY"
-	cont "was my strict CO!"
+	cont "was my OSHI!"
 	done
 
 _VermilionGymEndBattleText1::

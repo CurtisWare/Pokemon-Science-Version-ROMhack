@@ -10,7 +10,7 @@
 	INCBIN "gfx/pokemon/front/icy.pic", 0, 1 ; sprite dimensions
 	dw IcyPicFront, IcyPicBack
 
-	db PECK, ICE_BEAM, NO_MOVE, NO_MOVE ; level 1 learnset
+	db LICK, PSYBEAM, NO_MOVE, NO_MOVE ; level 1 learnset
 	db GROWTH_SLOW ; growth rate
 
 	; tm/hm learnset

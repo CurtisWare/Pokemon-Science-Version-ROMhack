@@ -37,7 +37,7 @@
 	const BLASTOISE          ; $1C
 	const PINSIR             ; $1D
 	const TANGELA            ; $1E
-	const BIRDROBOT          ; $1F ACTUALLY PIKACHU
+	const BIRDROBOT          ; $1F BIRD
 	const MEATHEAD           ; $20 MEATHEAD
 	const GROWLITHE          ; $21
 	const ONIX               ; $22
@@ -90,7 +90,7 @@
 	const_skip               ; $51
 	const VULPIX             ; $52
 	const NINETALES          ; $53
-	const PIKACHU            ; $54 ACTUALLY BIRD
+	const PIKACHU            ; $54 
 	const RAICHU             ; $55
 	const_skip               ; $56
 	const_skip               ; $57
@@ -201,7 +201,7 @@
 DEF NUM_POKEMON_INDEXES EQU const_value - 1
 
 ; player starter
-DEF STARTER_PIKACHU EQU PIKACHU
+DEF STARTER_PIKACHU EQU BIRDROBOT
 
 ; coqui starters
 DEF COQUI_STARTER_JOLTEON  EQU 1

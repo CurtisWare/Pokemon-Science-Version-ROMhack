@@ -155,7 +155,7 @@ PikachuEmotion22:
 PikachuEmotion23:
 	pikaemotion_dummy2
 	pikaemotion_pcm PikachuCry19
-	pikaemotion_pikapic PikaPicAnimScript23
+	pikaemotion_pikapic PikaPicAnimScript10
 	pikaemotion_subcmd PIKAEMOTION_SUBCMD_SHOWMAPVIEW
 	db $ff
 
@@ -185,7 +185,7 @@ PikachuEmotion26:
 PikachuEmotion27:
 	pikaemotion_dummy2
 	pikaemotion_pcm PikachuCry9
-	pikaemotion_pikapic PikaPicAnimScript27
+	pikaemotion_pikapic PikaPicAnimScript10
 	db $ff
 
 PikachuEmotion28:
@@ -211,14 +211,14 @@ PikachuEmotion30:
 
 PikachuEmotion31:
 	pikaemotion_pcm PikachuCry19
-	pikaemotion_pikapic PikaPicAnimScript23
+	pikaemotion_pikapic PikaPicAnimScript10
 	pikaemotion_subcmd PIKAEMOTION_SUBCMD_SHOWMAPVIEW
 	pikaemotion_subcmd PIKAEMOTION_SUBCMD_CHECKBILLSHOUSE
 	db $ff
 
 PikachuEmotion32:
 	pikaemotion_pcm PikachuCry26
-	pikaemotion_pikapic PikaPicAnimScript23
+	pikaemotion_pikapic PikaPicAnimScript10
 	db $ff
 
 PikachuMovementData_fd218:

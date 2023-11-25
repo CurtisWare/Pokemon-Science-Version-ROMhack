@@ -1,28 +1,35 @@
 _CeruleanHouse2Text_74eaa::
-	text "The DEFENSE of all"
-	line "#MON increases"
-	cont "a little bit."
+	text "That's Tomakeys!"
+	line "The Monkey"
+	cont "VTUBER!"
 
-	para "It also lets you"
-	line "use SURF outside"
-	cont "of battle."
+	para "www.twitch.tv/"
+	line "tomakeys"
 	prompt
 
 _CeruleanHouse2Text_74eaf::
-	text "#MON up to L70"
-	line "will obey you."
+	text "That's Reda!"
+	line "The Villainous"
+	cont "VTUBER!"
 
-	para "Any higher, they"
-	line "become unruly!"
+	para "www.twitch.tv/"
+	line "redaVT"
 	prompt
 
 _CeruleanHouse2Text_74eb4::
-	text "Your #MON's"
-	line "SPECIAL abilities"
-	cont "increase a bit."
+	text "That's Dance!"
+	line "The Champion of"
+	cont "the Proletariat!"
+
+	para "www.twitch.tv/"
+	line "WesKDance"
 	prompt
 
 _CeruleanHouse2Text_74eb9::
-	text "All #MON will"
-	line "obey you!"
+	text "That's Rummy!"
+	line "The BOSS"
+	cont "VTUBER!"
+
+	para "www.twitch.tv/"
+	line "rummytheboss"
 	prompt

@@ -549,19 +549,18 @@ TangelaEvosMoves:
 
 BirdEvosMoves:
 ; Evolutions
-	db EV_ITEM, THUNDER_STONE, 1, RAICHU
 	db 0
 ; Learnset
-	db 6, TAIL_WHIP
-	db 8, THUNDER_WAVE
-	db 11, QUICK_ATTACK
-	db 15, DOUBLE_TEAM
-	db 20, SLAM
-	db 26, THUNDERBOLT
-	db 33, AGILITY
-	db 41, THUNDER
-	db 50, LIGHT_SCREEN
+	db 7, SOIL
+	db 9, QUICK_ATTACK
+	db 13, CROP_DUST
+	db 20, LAY_PIPE
+	db 26, LAY_PIPE ; MALD
+	db 33, CROP_DUST ; AGILITY
+	db 41, BAJA_BLAST
+	db 50, SWIFT ; LIGHT_SCREEN
 	db 0
+
 
 MeatheadEvosMoves:
 ; Evolutions
@@ -571,10 +570,10 @@ MeatheadEvosMoves:
 	db 0
 ; Learnset
 	db 8, SAND_ATTACK
-	db 16, GROWL
+	db 16, LAY_PIPE
 	db 23, QUICK_ATTACK
-	db 30, BITE
-	db 36, FOCUS_ENERGY
+	db 30, VORE
+	db 36, RIZZED_UP
 	db 42, TAKE_DOWN
 	db 0
 
@@ -788,11 +787,11 @@ NuggzEvosMoves:
 ; Learnset
 	db 8, SAND_ATTACK
 	db 16, EMBER
-	db 23, QUICK_ATTACK
+	db 23, LEECH_SEED
 	db 30, BITE
 	db 36, FIRE_SPIN
 	db 42, SMOG
-	db 47, LEER
+	db 47, PETAL_DANCE
 	db 52, FLAMETHROWER
 	db 0
 
@@ -814,10 +813,10 @@ CannoliEvosMoves:
 ; Learnset
 	db 8, SAND_ATTACK
 	db 16, WATER_GUN
-	db 23, QUICK_ATTACK
+	db 23, TOXIC
 	db 30, BITE
 	db 36, AURORA_BEAM
-	db 42, HAZE
+	db 42, SLUDGE
 	db 42, MIST
 	db 47, ACID_ARMOR
 	db 52, HYDRO_PUMP
@@ -863,13 +862,13 @@ LitterbugEvosMoves:
 	db 0
 ; Learnset
 	db 8, SAND_ATTACK
-	db 16, THUNDERSHOCK
+	db 16, SOIL
 	db 23, QUICK_ATTACK
-	db 30, DOUBLE_KICK
+	db 30, CROP_DUST
 	db 36, PIN_MISSILE
 	db 42, THUNDER_WAVE
 	db 47, AGILITY
-	db 52, THUNDER
+	db 52, BAJA_BLAST
 	db 0
 
 MankeyEvosMoves:
@@ -1016,11 +1015,11 @@ IcyEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 63, BARRIER
-	db 66, PSYCHIC_M
-	db 70, RECOVER
-	db 75, MIST
-	db 81, AMNESIA
+	db 16, LICK
+	db 21, PSYCHIC_M
+	db 28, NIGHT_SHADE
+	db 35, VORE
+	db 42, PLAP_PLAP
 	db 0
 
 DoduoEvosMoves:
@@ -1122,11 +1121,11 @@ BillyEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 32, SLUDGE
-	db 37, SMOKESCREEN
-	db 40, SELFDESTRUCT
-	db 45, HAZE
-	db 48, EXPLOSION
+	db 20, SOIL
+	db 25, SMOKESCREEN
+	db 30, SELFDESTRUCT
+	db 35, CROP_DUST
+	db 40, ROCK_SLIDE
 	db 0
 
 MissingNo50EvosMoves:
@@ -1161,16 +1160,18 @@ NinetalesEvosMoves:
 
 PikachuEvosMoves:
 ; Evolutions
+	db EV_ITEM, THUNDER_STONE, 1, RAICHU
 	db 0
 ; Learnset
-	db 7, SOIL
-	db 9, QUICK_ATTACK
-	db 13, CROP_DUST
-	db 20, LAY_PIPE
-	db 26, LAY_PIPE ; MALD
-	db 33, CROP_DUST ; AGILITY
-	db 41, BAJA_BLAST
-	db 50, SWIFT ; LIGHT_SCREEN
+	db 6, TAIL_WHIP
+	db 8, THUNDER_WAVE
+	db 11, QUICK_ATTACK
+	db 15, DOUBLE_TEAM
+	db 20, SLAM
+	db 26, THUNDERBOLT
+	db 33, AGILITY
+	db 41, THUNDER
+	db 50, LIGHT_SCREEN
 	db 0
 
 RaichuEvosMoves:

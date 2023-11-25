@@ -59,7 +59,7 @@ TrainerDataPointers:
 YoungsterData:
 ; Route 3
 	db 11, RATTATA, EKANS, 0
-	db 14, SPEAROW, 0
+	db 14, BUD, 0
 ; Mt. Moon 1F
 	db 10, RATTATA, RATTATA, ZUBAT, 0
 ; Route 24
@@ -309,7 +309,7 @@ EngineerData:
 
 GrimbullData:
 ; Ideally The Fighting Dojo
-	db 37, HITMONLEE, HITMONCHAN, 0
+	db 37, GUCHA, KREOLA, 0
 
 FisherData:
 ; SS Anne 2F Rooms
@@ -702,7 +702,7 @@ ChannelerData:
 ; Unused
 	db 22, GASTLY, 0
 	db 24, GASTLY, 0
-	db 23, GASTLY, GASTLY, 0
+	db 23, GASTLY, ICY, 0
 	db 24, GASTLY, 0
 ; Pokémon Tower 3F
 	db 23, GASTLY, 0
@@ -713,7 +713,7 @@ ChannelerData:
 	db 22, GASTLY, 0
 ; Pokémon Tower 4F
 	db 24, GASTLY, 0
-	db 23, GASTLY, GASTLY, 0
+	db 23, GASTLY, ICY, 0
 ; Unused
 	db 24, GASTLY, 0
 ; Pokémon Tower 4F
@@ -729,13 +729,13 @@ ChannelerData:
 	db 24, GASTLY, 0
 	db 22, HAUNTER, 0
 ; Pokémon Tower 6F
-	db 22, GASTLY, GASTLY, GASTLY, 0
+	db 22, GASTLY, HAUNTER, ICY, 0
 	db 24, GASTLY, 0
 	db 24, GASTLY, 0
 ; Saffron Gym
 	db 34, GASTLY, HAUNTER, 0
 	db 38, HAUNTER, 0
-	db 33, GASTLY, GASTLY, HAUNTER, 0
+	db 33, GASTLY, ICY, HAUNTER, 0
 
 RaelData:
 	db $FF, 56, GENGAR, 56, GOLBAT, 55, HAUNTER, 58, ARBOK, 60, GENGAR, 0

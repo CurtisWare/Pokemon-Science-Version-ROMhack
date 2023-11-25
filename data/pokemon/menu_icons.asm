@@ -24,7 +24,7 @@ MonPartyData:
 	nybble ICON_BIRD      ; Fearow
 	nybble ICON_SNAKE     ; Ekans
 	nybble ICON_SNAKE     ; Arbok
-	nybble ICON_PIKACHU   ; Pikachu
+	nybble ICON_MON       ; Pikachu
 	nybble ICON_MON       ; Raichu
 	nybble ICON_MON       ; Sandshrew
 	nybble ICON_MON       ; Sandslash
@@ -151,7 +151,7 @@ MonPartyData:
 	nybble ICON_SNAKE     ; Dragonite
 	nybble ICON_MON       ; Mewtwo
 	nybble ICON_MON       ; Mew
-	nybble ICON_MON       ; Actually Pikachu
+	nybble ICON_PIKACHU   ; Bird
 	nybble ICON_MON       ; Meathead
 	nybble ICON_MON       ; Nuggz
 	nybble ICON_SNAKE     ; Cannoli

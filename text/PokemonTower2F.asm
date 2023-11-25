@@ -7,12 +7,12 @@ _PokemonTower2Text_6062d::
 
 	para "I can at least"
 	line "make them faint!"
-	cont "Let's go, pal!"
+	cont "Let's go, nerd!"
 	done
 
 _PokemonTower2Text_60632::
 	text "What?"
-	line "You stinker!"
+	line "You butthole!"
 
 	para "I took it easy on"
 	line "you too!"
@@ -43,7 +43,7 @@ _PokemonTower2Text_6063c::
 	cont "I've got a lot to"
 	cont "accomplish, pal!"
 
-	para "Smell ya later!"
+	para "Shock me harder!"
 	done
 
 _PokemonTower2Text2::

@@ -1,13 +1,13 @@
 _CeruleanHouse2Text_74e77::
 	text "#MON BADGEs"
 	line "are owned only by"
-	cont "skilled trainers."
+	cont "skilled vtubers!"
 
 	para "I see you have"
 	line "at least one."
 
-	para "Those BADGEs have"
-	line "amazing secrets!"
+	para "I know where"
+	line "they stream!"
 	prompt
 
 _CeruleanHouse2Text_74e7c::
@@ -24,45 +24,41 @@ _CeruleanHouse2Text_74e81::
 	done
 
 _CeruleanHouse2Text_74e96::
-	text "The ATTACK of all"
-	line "#MON increases"
-	cont "a little bit."
+	text "That's FangGuu!"
+	line "The Caveman"
+	cont "VTUBER!"
 
-	para "It also lets you"
-	line "use FLASH any-"
-	cont "time you desire."
+	para "www.twitch.tv/"
+	line "fangguu"
+	cont "@"
 	prompt
 
 _CeruleanHouse2Text_74e9b::
-	text "#MON up to L30"
-	line "will obey you."
+	text "That's Koopa"
+	line "Fortuna!"
 
-	para "Any higher, they"
-	line "become unruly!"
+	para "She's the Turtle"
+	line "VTUBER!"
 
-	para "It also lets you"
-	line "use CUT outside"
-	cont "of battle."
+	para "www.twitch.tv/"
+	line "koopa＿ch"
+
 	prompt
 
 _CeruleanHouse2Text_74ea0::
-	text "The SPEED of all"
-	line "#MON increases"
-	cont "a little bit."
+	text "That's Peony!"
+	line "The Possum"
+	cont "VTUBER!"
 
-	para "It also lets you"
-	line "use FLY outside"
-	cont "of battle."
+	para "www.twitch.tv/"
+	line "peonyplayinpossum"
 	prompt
 
 _CeruleanHouse2Text_74ea5::
-	text "#MON up to L50"
-	line "will obey you."
+	text "That's Meat!"
+	line "The Silly"
+	cont "Cavewoman!"
 
-	para "Any higher, they"
-	line "become unruly!"
-
-	para "It also lets you"
-	line "use STRENGTH out-"
-	cont "side of battle."
+	para "www.twitch.tv/"
+	line "meat"
 	prompt

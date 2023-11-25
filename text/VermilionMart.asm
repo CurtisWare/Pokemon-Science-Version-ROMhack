@@ -4,7 +4,7 @@ _VermilionMartText2::
 	cont "use #MON for"
 	cont "criminal acts."
 
-	para "SOUTHSIDE"
+	para "The SOUTHSIDE"
 	line "traffics in rare"
 	cont "#MON."
 

@@ -15,7 +15,7 @@ _VermilionHouse1Text3::
 
 	para "I heard SAFFRON"
 	line "has problems with"
-	cont "SOUTHSIDE."
+	cont "the SOUTHSIDE."
 
 	para "VERMILION appears"
 	line "to be safe."
