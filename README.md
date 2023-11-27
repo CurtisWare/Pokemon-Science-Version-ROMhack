@@ -1,3 +1,11 @@
+# POKEMON SCIENCE VERSION
+
+To Play Pokemon Science Version, you can click "Releases" and download the IPS.
+Then, use an IPS patcher, like Lunar IPS, to patch an unmodded version of Pokemon Yellow.
+Enjoy!
+
+
+
 # Pokémon Yellow [![Build Status][ci-badge]][ci]
 
 This is a disassembly of Pokémon Yellow.
