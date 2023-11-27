@@ -1,39 +1,39 @@
 _MeatPreBattleText::
-	text "Hello. Lovely"
-	line "weather isn't it?"
-	cont "It's so pleasant."
+	text "Hi!"
+	line "Is it Saturday"
+	cont "already!?"
 
 	para "...Oh dear..."
-	line "I must have dozed"
-	cont "off. Welcome."
+	line "I'm feeling a"
+	cont "little silly!"
 
 	para "My name is MEAT."
 	line "I am the LEADER"
 	cont "of CELADON GYM."
 
-	para "I teach the art of"
-	line "flower arranging."
-	cont "My #MON are of"
-	cont "the grass-type."
+	para "I use HORNY"
+	line "#MON to give"
+	cont "myself an EDGE"
+	cont "in battle!"
 
-	para "Oh, I'm sorry, I"
-	line "had no idea that"
-	cont "you wished to"
-	cont "challenge me."
+	para "Oh, you want to"
+	line "battle? Fair"
+	cont "warning, I'm"
+	cont "pretty hardcore!"
 
-	para "Very well, but I"
-	line "shall not lose."
+	para "Or... post-"
+	line "hardcore, anyway."
 	done
 
 _ReceivedRainbowBadgeText::
 	text "Oh!"
-	line "I concede defeat."
+	line "You BITCH!"
 
-	para "You are remarkably"
-	line "strong."
+	para "What a silly"
+	line "outcome!"
 
-	para "I must confer you"
-	line "the RAINBOWBADGE."
+	para "I gotta give you"
+	line "the RAWRBADGE!"
 	prompt
 
 _MeatPostBattleAdviceText::
@@ -43,12 +43,12 @@ _MeatPostBattleAdviceText::
 
 	para "I would never"
 	line "collect #MON"
-	cont "if they were"
-	cont "unattractive."
+	cont "if they weren't"
+	cont "hot!"
 	done
 
 _MeatRainbowBadgeInfoText::
-	text "The RAINBOWBADGE"
+	text "The RAWRBADGE"
 	line "will make #MON"
 	cont "up to L50 obey."
 
@@ -88,8 +88,8 @@ _TM21NoRoomText::
 _CeladonGymBattleText2::
 	text "Hey!"
 
-	para "You are not"
-	line "allowed in here!"
+	para "You could be"
+	line "a trainer here!"
 	done
 
 _CeladonGymEndBattleText2::
@@ -114,13 +114,13 @@ _CeladonGymEndBattleText3::
 	prompt
 
 _CeladonGymAfterBattleText3::
-	text "Grass-type #MON"
+	text "HORNY-type #MON"
 	line "are tough against"
-	cont "the water-type!"
+	cont "the ROCK-type!"
 
 	para "They also have an"
 	line "edge on rock and"
-	cont "ground #MON!"
+	cont "DRAGON #MON!"
 	done
 
 _CeladonGymBattleText4::
@@ -140,7 +140,7 @@ _CeladonGymAfterBattleText4::
 	done
 
 _CeladonGymBattleText5::
-	text "Look at my grass"
+	text "Look at my HORNY"
 	line "#MON!"
 
 	para "They're so easy"
@@ -152,7 +152,7 @@ _CeladonGymEndBattleText5::
 	prompt
 
 _CeladonGymAfterBattleText5::
-	text "We only use grass-"
+	text "We only use HORNY-"
 	line "type #MON at"
 	cont "our GYM!"
 
@@ -163,7 +163,7 @@ _CeladonGymAfterBattleText5::
 
 _CeladonGymBattleText6::
 	text "Don't bring any"
-	line "bugs or fire"
+	line "STINKY or DRAGON"
 	cont "#MON in here!"
 	done
 
@@ -174,7 +174,7 @@ _CeladonGymEndBattleText6::
 
 _CeladonGymAfterBattleText6::
 	text "Our LEADER, MEAT,"
-	line "might be quiet,"
+	line "might be silly,"
 	cont "but she's also"
 	cont "very skilled!"
 	done

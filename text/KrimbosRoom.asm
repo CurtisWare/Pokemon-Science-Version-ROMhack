@@ -5,7 +5,7 @@ _KrimboBeforeBattleText::
 	para "I lead the ELITE"
 	line "FOUR! You can"
 	cont "call me KRIMBO the"
-	cont "dragon trainer!"
+	cont "King Kriminal!"
 
 	para "You know that"
 	line "dragons are"

@@ -1,7 +1,7 @@
 _MeetLaprasGuyText::
 	text "Oh! Hi! You're"
-	line "not a ROCKET! You"
-	cont "came to save us?"
+	line "not SOUTHSIDE?"
+	cont "You'll save us?"
 	cont "Why, thank you!"
 
 	para "I want you to"
@@ -28,7 +28,7 @@ _HeresYourLaprasText::
 	done
 
 _LaprasGuyText::
-	text "TEAM ROCKET's"
+	text "The SOUTHSIDE's"
 	line "BOSS went to the"
 	cont "boardroom! Is our"
 	cont "PRESIDENT OK?"
@@ -40,7 +40,7 @@ _LaprasGuySavedText::
 	done
 
 _SilphCo7Text_51e00::
-	text "TEAM ROCKET was"
+	text "The SOUTHSIDE was"
 	line "after the MASTER"
 	cont "BALL which will"
 	cont "catch any #MON!"
@@ -50,19 +50,19 @@ _CanceledMasterBallText::
 	text "We canceled the"
 	line "MASTER BALL"
 	cont "project because"
-	cont "of TEAM ROCKET."
+	cont "of SOUTHSIDE."
 	done
 
 _SilphCo7Text_51e23::
 	text "It would be bad"
-	line "if TEAM ROCKET"
+	line "if the SOUTHSIDE"
 	cont "took over SILPH"
 	cont "or our #MON!"
 	done
 
 _SilphCo7Text_51e28::
 	text "Wow! You chased"
-	line "off TEAM ROCKET"
+	line "off SOUTHSIDE"
 	cont "all by yourself?"
 	done
 
@@ -89,8 +89,8 @@ _SilphCo7EndBattleText1::
 	prompt
 
 _SilphCo7AfterBattleText1::
-	text "You won't find my"
-	line "BOSS by just"
+	text "You won't find"
+	line "The BOSS by just"
 	cont "scurrying around!"
 	done
 
@@ -114,17 +114,17 @@ _SilphCo7AfterBattleText2::
 
 _SilphCo7BattleText3::
 	text "I am one of the 4"
-	line "ROCKET BROTHERS!"
+	line "STOOPKIDS!"
 	done
 
 _SilphCo7EndBattleText3::
 	text "Aack!"
-	line "Brothers, I lost!"
+	line "Homies, I lost!"
 	prompt
 
 _SilphCo7AfterBattleText3::
 	text "Doesn't matter."
-	line "My brothers will"
+	line "My homies will"
 	cont "repay the favor!"
 	done
 
@@ -155,21 +155,21 @@ _SilphCo7Text_51ec3::
 	cont "turn up if I"
 	cont "waited here!"
 
-	para "I guess TEAM"
-	line "ROCKET slowed you"
-	cont "down! Not that I"
-	cont "care!"
+	para "I guess those"
+	line "SOUTHSIDE goons"
+	cont "slowed you"
+	cont "down!"
 
-	para "I saw you in"
-	line "SAFFRON, so I"
-	cont "decided to see if"
-	cont "you got better!"
+	para "Anyway, now that"
+	line "you're here, I'm"
+	cont "gonna have to"
+	cont "rough you up!"
 	done
 
 _SilphCo7Text_51ec8::
 	text "Oh-oh!"
 	line "So, you are ready"
-	cont "for BOSS ROCKET!"
+	cont "for The BOSS!"
 	prompt
 
 _SilphCo7Text_51ecd::
@@ -187,23 +187,19 @@ _SilphCo7Text_51ed2::
 	para "I'm moving on up"
 	line "and ahead!"
 
-	para "By checking my"
-	line "#DEX, I'm"
-	cont "starting to see"
-	cont "what's strong and"
-	cont "how they evolve!"
+	para "And just remember"
+	line "something..."
 
-	para "I'm going to the"
-	line "#MON LEAGUE"
-	cont "to boot out the"
-	cont "ELITE FOUR!"
+	para "Do NOT..."
+	line "under ANY"
+	cont "circumstance..."
 
-	para "I'll become the"
-	line "world's most"
-	cont "powerful trainer!"
+	para "never"
+	line "ever"
+	cont "EVER"
 
-	para "<PLAYER>, well"
-	line "good luck to you!"
-	cont "Don't sweat it!"
-	cont "Smell ya!"
+	para "describe me as"
+	line "CUTE."
+	cont "Got it?"
+	cont "You'd better!"
 	done

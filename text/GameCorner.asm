@@ -8,8 +8,8 @@ _CeladonGameCornerText1::
 	done
 
 _CeladonGameCornerText_48d22::
-	text "Welcome to ROCKET"
-	line "GAME CORNER!"
+	text "Welcome to The"
+	line "SOUTHSIDE SEWER!"
 
 	para "Do you need some"
 	line "game coins?"
@@ -49,7 +49,7 @@ _CeladonGameCornerText3::
 
 	para "It's rumored that"
 	line "this place is run"
-	cont "by TEAM ROCKET."
+	cont "by The SOUTHSIDE."
 	done
 
 _CeladonGameCornerText4::
@@ -92,7 +92,7 @@ _CeladonGameCornerText_48dca::
 
 	para "CELADON GYM's"
 	line "LEADER is MEAT!"
-	cont "She uses grass-"
+	cont "She uses HORNY-"
 	cont "type #MON!"
 
 	para "She might appear"

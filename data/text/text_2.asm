@@ -273,11 +273,11 @@ _SaffronCityPokecenterGuyText1::
 	text "It would be great"
 	line "if the ELITE FOUR"
 	cont "came and stomped"
-	cont "TEAM ROCKET!"
+	cont "The SOUTHSIDE!"
 	done
 
 _SaffronCityPokecenterGuyText2::
-	text "TEAM ROCKET took"
+	text "SOUTHSIDE took"
 	line "off! We can go"
 	cont "out safely again!"
 	cont "That's great!"

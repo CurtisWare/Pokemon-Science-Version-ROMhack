@@ -467,12 +467,12 @@ WarpFound2::
 	ld [wUnusedD366], a ; not read
 	ldh a, [hWarpDestinationMap]
 	ld [wCurMap], a
-	cp ROCK_TUNNEL_1F
-	jr nz, .notRockTunnel
-	ld a, $06
-	ld [wMapPalOffset], a
-	call GBFadeOutToBlack
-.notRockTunnel
+; 	cp ROCK_TUNNEL_1F
+; 	jr nz, .notRockTunnel
+; 	ld a, $06
+; 	ld [wMapPalOffset], a
+; 	call GBFadeOutToBlack
+; .notRockTunnel
 	callfar SetPikachuSpawnOutside
 	call PlayMapChangeSound
 	jr .done

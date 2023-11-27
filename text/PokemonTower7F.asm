@@ -1,9 +1,10 @@
 _PokemonTowerJessieJamesText1::
-	text "NELSON: HOLD UP!@"
+	text "BODEGA: HOLD UP!"
+	line "RRRR!@"
 	text_end
 
 _PokemonTowerJessieJamesText2::
-	text "BODEGA: RRRRR!"
+	text "NELSON: YEAH!"
 	line "We have some"
 	cont "unfinished biz"
 	cont "with the old guy!"

@@ -1,12 +1,12 @@
 _SilphCo5Text_1a010::
-	text "TEAM ROCKET is"
+	text "The SOUTHSIDe is"
 	line "in an uproar over"
 	cont "some intruder."
 	cont "That's you right?"
 	done
 
 _SilphCo5Text_1a015::
-	text "TEAM ROCKET took"
+	text "SOUTHSIDE took"
 	line "off! You're our"
 	cont "hero! Thank you!"
 	done
@@ -21,13 +21,14 @@ _SilphCo5EndBattleText2::
 	prompt
 
 _SilphCo5AfterBattleText2::
-	text "It's not smart"
-	line "to pick a fight"
-	cont "with TEAM ROCKET!"
+	text "It's not smart to"
+	line "pick a fight"
+	cont "with the"
+	cont "SOUTHSIDE!"
 	done
 
 _SilphCo5BattleText3::
-	text "We study #"
+	text "We study"
 	line "BALL technology"
 	cont "on this floor!"
 	done
@@ -58,11 +59,11 @@ _SilphCo5EndBattleText4::
 _SilphCo5AfterBattleText4::
 	text "You're only on 5F."
 	line "It's a long way"
-	cont "to my BOSS!"
+	cont "to The BOSS!"
 	done
 
 _SilphCo5BattleText5::
-	text "Show TEAM ROCKET"
+	text "Show SOUTHSIDE"
 	line "a little respect!"
 	done
 

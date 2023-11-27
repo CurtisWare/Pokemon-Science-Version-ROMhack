@@ -1,19 +1,19 @@
 _TomakeysPreBattleText::
-	text "I had a vision of"
-	line "your arcoqui!"
+	text "Hi there!"
+	line "How are you!"
 
-	para "I have had psychic"
-	line "powers since I"
-	cont "was a child."
+	para "I'm TOMAKEYS,"
+	line "but you can just"
+	cont "call me TOMA."
 
-	para "I first learned"
-	line "to bend spoons"
-	cont "with my mind."
+	para "Win or Lose, I"
+	line "hope all Pokemon"
+	cont "have a good time!"
 
-	para "I dislike fight-"
-	line "ing, but if you"
-	cont "wish, I will show"
-	cont "you my powers!"
+	para "I'll give you"
+	line "a cool rock I "
+	cont "found after we're"
+	cont "done!"
 	done
 
 _ReceivedMarshBadgeText::
@@ -22,12 +22,12 @@ _ReceivedMarshBadgeText::
 	cont "But, a loss is a"
 	cont "loss."
 
-	para "I admit I didn't"
-	line "work hard enough"
-	cont "to win!"
+	para "And after all..."
+	line "I had a lot of"
+	cont "fun!"
 
 	para "You earned the"
-	line "MARSHBADGE!@"
+	line "CRYSTALBADGE!@"
 	text_end
 
 _TomakeysPostBattleAdviceText::
@@ -38,7 +38,7 @@ _TomakeysPostBattleAdviceText::
 	done
 
 _RedaMarshBadgeInfoText::
-	text "The MARSHBADGE"
+	text "The CRYSTALBADGE"
 	line "makes #MON up"
 	cont "to L70 obey you!"
 

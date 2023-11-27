@@ -57,8 +57,8 @@ _FuchsiaCityText18::
 	line "#MON GYM"
 	cont "LEADER: REDA"
 
-	para "The Poisonous"
-	line "Ninja Master!"
+	para "The Villanous"
+	line "Space Invader!"
 	done
 
 _FuchsiaCityChanseyText::

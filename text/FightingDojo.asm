@@ -1,44 +1,47 @@
 _FightingDojoText_5ce8e::
-	text "Grunt!"
+	text "Hmm?"
 
-	para "I am the KARATE"
-	line "MASTER! I am the"
-	cont "LEADER here!"
+	para "I'm Officer"
+	line "Grimbull."
+	cont "How's it?"
 
-	para "You wish to"
-	line "challenge us?"
-	cont "Expect no mercy!"
+	para "What? You're"
+	line "friends with"
+	cont "<COQUI>?"
 
-	para "Fwaaa!"
+	para "That's a"
+	line "violation of"
+	cont "probation!"
 	done
 
 _FightingDojoText_5ce93::
-	text "Hwa!"
-	line "Arrgh! Beaten!"
+	text "Welp."
+	line "That's that."
 	prompt
 
 _FightingDojoText_5ce98::
-	text "Indeed, I have"
-	line "lost!"
+	text "Well, you beat"
+	line "me..."
 
-	para "But, I beseech"
-	line "you, do not take"
-	cont "our emblem as"
-	cont "your trophy!"
+	para "But, if you see"
+	line "either Rummy or"
+	cont "<COQUI>, you"
+	cont "better tell"
 
-	para "In return, I will"
-	line "give you a prized"
-	cont "fighting #MON!"
+	para "them to be good!"
+	line "Now, take BOTH"
+	cont "of the DOJO's"
 
-	para "Choose whichever"
-	line "one you like!"
+	para "fighting hamster"
+	line "Pokemon!"
 	done
 
 _FightingDojoText_5ce9d::
-	text "Ho!"
+	text "Well..."
 
-	para "Stay and train at"
-	line "Karate with us!"
+	para "Guess I'll head"
+	line "back to the"
+	cont "station."
 	done
 
 _FightingDojoBattleText1::
@@ -114,14 +117,14 @@ _FightingDojoAfterBattleText4::
 
 _WantHitmonleeText::
 	text "You want the"
-	line "hard-kicking"
-	cont "HITMONLEE?"
+	line "cottagecore"
+	cont "GUCHA?"
 	done
 
 _WantHitmonchanText::
 	text "You want the"
-	line "piston-punching"
-	cont "HITMONCHAN?"
+	line "happy ham"
+	cont "KREOLA?"
 	done
 
 _OtherHitmonText::

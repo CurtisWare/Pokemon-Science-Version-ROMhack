@@ -225,13 +225,13 @@ FightingDojoAfterBattleText4:
 FightingDojoText6:
 ; Hitmonlee Poké Ball
 	text_asm
-	CheckEitherEventSet EVENT_GOT_HITMONLEE, EVENT_GOT_HITMONCHAN
+	;CheckEitherEventSet EVENT_GOT_HITMONLEE, EVENT_GOT_HITMONCHAN
 	jr z, .GetMon
-	ld hl, OtherHitmonText
-	call PrintText
-	jr .done
+	; ld hl, OtherHitmonText
+	; call PrintText
+	; jr .done
 .GetMon
-	ld a, HITMONLEE
+	ld a, GUCHA
 	call DisplayPokedex
 	ld hl, WantHitmonleeText
 	call PrintText
@@ -260,13 +260,13 @@ WantHitmonleeText:
 FightingDojoText7:
 ; Hitmonchan Poké Ball
 	text_asm
-	CheckEitherEventSet EVENT_GOT_HITMONLEE, EVENT_GOT_HITMONCHAN
+	;CheckEitherEventSet EVENT_GOT_HITMONLEE, EVENT_GOT_HITMONCHAN
 	jr z, .GetMon
-	ld hl, OtherHitmonText
-	call PrintText
-	jr .done
+	; ld hl, OtherHitmonText
+	; call PrintText
+	; jr .done
 .GetMon
-	ld a, HITMONCHAN
+	ld a, KREOLA
 	call DisplayPokedex
 	ld hl, WantHitmonchanText
 	call PrintText

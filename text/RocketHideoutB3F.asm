@@ -1,6 +1,6 @@
 _RocketHideout3BattleText2::
 	text "Stop meddling in"
-	line "TEAM ROCKET's"
+	line "the SOUTHSIDE's"
 	cont "affairs!"
 	done
 
@@ -11,8 +11,8 @@ _RocketHideout3EndBattleText2::
 
 _RocketHideout3AfterBattleTxt2::
 	text "SILPH SCOPE?"
-	line "The machine the"
-	cont "BOSS stole. It's"
+	line "The machine The"
+	cont "BOSS stole? It's"
 	cont "here somewhere."
 	done
 

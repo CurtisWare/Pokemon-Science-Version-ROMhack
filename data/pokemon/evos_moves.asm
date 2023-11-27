@@ -683,8 +683,8 @@ MachokeEvosMoves:
 	db 0
 ; Learnset
 	db 20, LOW_KICK
-	db 25, LEER
-	db 36, FOCUS_ENERGY
+	db 25, LAY_PIPE
+	db 36, ARA_ARA
 	db 44, SEISMIC_TOSS
 	db 52, SUBMISSION
 	db 0
@@ -1400,9 +1400,9 @@ MachopEvosMoves:
 	db 0
 ; Learnset
 	db 20, LOW_KICK
-	db 25, LEER
+	db 25, LAY_PIPE
 	db 32, FOCUS_ENERGY
-	db 39, SEISMIC_TOSS
+	db 39, ARA_ARA
 	db 46, SUBMISSION
 	db 0
 
@@ -1601,8 +1601,8 @@ MachampEvosMoves:
 	db 0
 ; Learnset
 	db 20, LOW_KICK
-	db 25, LEER
-	db 36, FOCUS_ENERGY
+	db 25, LAY_PIPE
+	db 36, ARA_ARA
 	db 44, SEISMIC_TOSS
 	db 52, SUBMISSION
 	db 0

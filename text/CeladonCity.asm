@@ -82,8 +82,8 @@ _CeladonCityText8::
 	done
 
 _CeladonCityText9::
-	text "Keep out of TEAM"
-	line "ROCKET's way!"
+	text "Keep out of the"
+	line "SOUTHSIDE's way!"
 	done
 
 _CeladonCityText11::
@@ -132,9 +132,9 @@ _CeladonCityText17::
 	done
 
 _CeladonCityText18::
-	text "ROCKET GAME CORNER"
+	text "SOUTHSIDE SEWER"
 	line "The playground"
-	cont "for grownups!"
+	cont "for 28plus ppl!"
 	done
 
 _CeladonCityText10::

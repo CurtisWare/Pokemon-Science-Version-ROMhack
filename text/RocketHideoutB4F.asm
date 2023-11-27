@@ -1,15 +1,15 @@
 _RocketHideoutJessieJamesText1::
-	text "Not another step,"
-	line "brat!@"
+	text "NELSON: You"
+	line "again!@"
 	text_end
 
 _RocketHideoutJessieJamesText2::
-	text "How dare you"
-	line "humiliate us at"
-	cont "MT.MOON!"
+	text "BODEGA: How "
+	line "do you keep"
+	cont "showing up?!"
 
 	para "It's payback time,"
-	line "you brat!"
+	line "rrrrrrr!"
 	done
 
 _RocketHideoutJessieJamesText3::
@@ -18,20 +18,20 @@ _RocketHideoutJessieJamesText3::
 	prompt
 
 _RocketHideoutJessieJamesText4::
-	text "Looks like TEAM"
-	line "ROCKET's blasting"
-	cont "off again!@"
+	text "SOUTHSIDE, we're"
+	line "getting outta"
+	cont "here!@"
 	text_end
 
 _RocketHideout4Text_4557a::
-	text "So! I must say, I"
-	line "am impressed you"
-	cont "got here!"
+	text "Well, well! You"
+	line "think you can"
+	cont "approach ME?"
 	done
 
 _RocketHideout4Text_4557f::
 	text "WHAT!"
-	line "This cannot be!"
+	line "That's BULL!"
 	prompt
 
 _RocketHideout4Text_45584::
@@ -47,8 +47,8 @@ _RocketHideout4Text_45584::
 	para "I shall step"
 	line "aside this time!"
 
-	para "I hope we meet"
-	line "again..."
+	para "Give me chicken"
+	line "next time..."
 	done
 
 _RocketHideout4BattleText4::

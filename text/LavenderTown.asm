@@ -30,11 +30,12 @@ _LavenderTownText2::
 _LavenderTownText3::
 	text "GHOSTs appeared"
 	line "in #MON TOWER."
+	cont "I think they're"
 
-	para "I think they're"
-	line "the spirits of"
-	cont "#MON that the"
-	cont "ROCKETs killed."
+	para "the spirts of"
+	line "#MON that the"
+	cont "SOUTHSIDE"
+	cont "pants'd."
 	done
 
 _LavenderTownText4::

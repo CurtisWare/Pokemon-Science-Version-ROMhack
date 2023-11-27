@@ -14,7 +14,7 @@ _RocketHideout1EndBattleText2::
 
 _RocketHideout1AfterBattleTxt2::
 	text "Are you dissing"
-	line "TEAM ROCKET?"
+	line "the SOUTHSIDE?"
 	done
 
 _RocketHideout1BattleText3::
@@ -60,7 +60,7 @@ _RocketHideout1EndBattleText5::
 _RocketHideout1AfterBattleTxt5::
 	text "OK, I'll talk!"
 	line "Take the elevator"
-	cont "to see my BOSS!"
+	cont "to see The BOSS!"
 	done
 
 _RocketHideout1BattleText6::

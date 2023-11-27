@@ -4,7 +4,7 @@ _SaffronCityText1::
 	done
 
 _SaffronCityText2::
-	text "BOSS said he'll"
+	text "BOSS said she'll"
 	line "take this town!"
 	done
 
@@ -15,7 +15,7 @@ _SaffronCityText3::
 
 _SaffronCityText4::
 	text "SAFFRON belongs"
-	line "to TEAM ROCKET!"
+	line "the to SOUTHSIDE!"
 	done
 
 _SaffronCityText5::
@@ -36,13 +36,13 @@ _SaffronCityText7::
 	done
 
 _SaffronCityText8::
-	text "You beat TEAM"
-	line "ROCKET all alone?"
+	text "You beat The"
+	line "SOUTHSIDE alone?"
 	cont "That's amazing!"
 	done
 
 _SaffronCityText9::
-	text "Yeah! TEAM ROCKET"
+	text "Yeah! SOUTHSIDE"
 	line "is gone!"
 	cont "It's safe to go"
 	cont "out again!"
@@ -69,9 +69,9 @@ _SaffronCityText12::
 	text_end
 
 _SaffronCityText13::
-	text "I saw ROCKET"
-	line "BOSS escaping"
-	cont "SILPH's building."
+	text "I saw the"
+	line "The SOUTHSIDE"
+	cont "BOSS escaping!"
 	done
 
 _SaffronCityText14::
@@ -105,8 +105,8 @@ _SaffronCityText18::
 	line "#MON GYM"
 	cont "LEADER: TOMAKEYS"
 
-	para "The Master of"
-	line "Psychic #MON!"
+	para "The Fun-Loving"
+	line "Monkey"
 	done
 
 _SaffronCityText20::

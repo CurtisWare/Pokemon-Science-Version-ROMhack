@@ -1,28 +1,27 @@
 _RedaBeforeBattleText::
 	text "REDA: Fwahahaha!"
 
-	para "A mere child like"
-	line "you dares to"
-	cont "challenge me?"
+	para "Well well,"
+	line "who do we have"
+	cont "here?"
 
-	para "Very well, I"
-	line "shall show you"
-	cont "true terror as a"
-	cont "ninja master!"
+	para "You must be "
+	line "very brave or"
+	cont "very stupid to"
+	cont "challenge me!"
 
-	para "You shall feel"
-	line "the despair of"
-	cont "poison and sleep"
-	cont "techniques!"
+	para "I'll show you"
+	line "the power of a"
+	cont "TRUE VILLAIN!"
 	done
 
 _ReceivedSoulBadgeText::
 	text "Humph!"
-	line "You have proven"
-	cont "your worth!"
+	line "With that much"
+	cont "power..."
 
 	para "Here! Take the"
-	line "SOULBADGE!"
+	line "OUTLAWBADGE!"
 	prompt
 
 _RedaPostBattleAdviceText::
@@ -38,7 +37,7 @@ _RedaPostBattleAdviceText::
 
 _RedaSoulBadgeInfoText::
 	text "Now that you have"
-	line "the SOULBADGE,"
+	line "the OUTLAWBADGE,"
 	cont "the DEFENSE of"
 	cont "your #MON"
 	cont "increases!"
@@ -98,7 +97,7 @@ _FuchsiaGymAfterBattleText1::
 
 _FuchsiaGymBattleText2::
 	text "I wanted to become"
-	line "a ninja, so I"
+	line "a villain, so I"
 	cont "joined this GYM!"
 	done
 
@@ -110,7 +109,7 @@ _FuchsiaGymEndBattleText2::
 _FuchsiaGymAfterBattleText2::
 	text "I will keep on"
 	line "training under"
-	cont "REDA, my ninja"
+	cont "REDA, my evil"
 	cont "master!"
 	done
 
@@ -156,10 +155,10 @@ _FuchsiaGymAfterBattleText4::
 
 _FuchsiaGymBattleText5::
 	text "I also study the"
-	line "way of the ninja"
+	line "way of True Evil"
 	cont "with master REDA!"
 
-	para "Ninja have a long"
+	para "Villains have a"
 	line "history of using"
 	cont "animals!"
 	done
@@ -176,7 +175,7 @@ _FuchsiaGymAfterBattleText5::
 _FuchsiaGymBattleText6::
 	text "Master REDA comes"
 	line "from a long line"
-	cont "of ninjas!"
+	cont "of outlaws!"
 
 	para "What did you"
 	line "descend from?"
@@ -205,17 +204,18 @@ _FuchsiaGymGuidePreBattleText::
 	line "riddled with"
 	cont "invisible walls!"
 
-	para "REDA might appear"
-	line "close, but he's"
+	para "REDA seems close,"
+	line "but they're"
 	cont "blocked off!"
 
 	para "You have to find"
 	line "gaps in the walls"
-	cont "to reach him!"
+	cont "to reach them!"
 	done
 
 _FuchsiaGymGuidePostBattleText::
 	text "It's amazing how"
-	line "ninja can terrify"
-	cont "even now!"
+	line "outlaws from "
+	cont "space terrorize"
+	cont "us even now!"
 	done

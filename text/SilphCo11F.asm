@@ -67,34 +67,41 @@ _SilphCo11Text3::
 	cont "a vital business"
 	cont "proposition."
 
-	para "Keep your nose"
-	line "out of grown-up"
-	cont "matters..."
+	para "So... do me"
+	line "a solid and"
+	cont "BUTT-OUT!"
 
-	para "or, experience a"
-	line "world of pain!"
+	para "...or..."
+	line " "
+
+	para "I could just"
+	line "kick your butt."
 	done
 
 _SilphCo10Text_62330::
-	text "Arrgh!!"
-	line "I lost again!?"
+	text "WHAT!"
+	line "Oh Rummy..."
 	prompt
 
 _SilphCo10Text_62335::
-	text "Blast it all!"
-	line "You ruined our"
-	cont "plans for SILPH!"
+	text "DUDE!"
+	line "Are you freakin"
+	cont "SERIOUS?!"
 
-	para "But, TEAM ROCKET"
-	line "will never fall!"
+	para "I can't believe"
+	line "The BOSS got"
+	cont "got!"
 
 	para "<PLAYER>! Never"
-	line "forget that all"
-	cont "#MON exist"
-	cont "for TEAM ROCKET!"
+	line "forget that The"
+	cont "BOSS always"
+	cont "delivers!"
 
-	para "I must go, but I"
-	line "shall return!"
+	para "And next time..."
+	line "I'll deliver"
+	cont "you a butt-"
+	cont "kicking!"
+
 	done
 
 _SilphCo11BattleText2::
@@ -110,6 +117,6 @@ _SilphCo11EndBattleText2::
 
 _SilphCo11AfterBattleText2::
 	text "Watch your step,"
-	line "my BOSS likes his"
+	line "my BOSS likes her"
 	cont "#MON tough!"
 	done

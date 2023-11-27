@@ -108,8 +108,8 @@ ReceivedBikeVoucherText::
 
 ExplainBikeVoucherText::
 	text_start
-	para "Exchange that for"
-	line "a BICYCLE!"
+	para "Rob the BICYCLE"
+	line "shop with that!"
 
 	para "Don't worry, my"
 	line "FEAROW will FLY"

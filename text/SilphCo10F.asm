@@ -42,16 +42,17 @@ _SilphCo10AfterBattleText2::
 	done
 
 _SilphCoJessieJamesText1::
-	text "Hold it right"
-	line "there, brat!@"
+	text "NELSON: You?!"
+	line "AGAIN?!@"
 	text_end
 
 _SilphCoJessieJamesText2::
-	text "Our BOSS is in a"
-	line "meeting!"
+	text "BODEGA: The BOSS"
+	line "is in a"
+	cont "meeting!"
 
 	para "You better not"
-	line "disturb him!"
+	line "disturb herrr!"
 	done
 
 _SilphCoJessieJamesText3::
@@ -60,9 +61,12 @@ _SilphCoJessieJamesText3::
 	prompt
 
 _SilphCoJessieJamesText4::
-	text "TEAM ROCKET, blast"
-	line "off at the speed"
-	cont "of light!"
+	text "We're tired of"
+	line "doing this..."
 
-	para "Again...@"
+	para "Maybe it's time"
+	line "to go get a"
+	cont "New York slice"
+	cont "instead...@"
+	
 	text_end

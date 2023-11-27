@@ -3,7 +3,7 @@ _SilphCo2Text_59ded::
 	line "No! Stop! Help!"
 
 	para "Oh, you're not"
-	line "with TEAM ROCKET."
+	line "with SOUTHSIDE."
 	cont "I thought..."
 	cont "I'm sorry. Here,"
 	cont "please take this!"
@@ -37,15 +37,15 @@ _SilphCo2BattleText1::
 	done
 
 _SilphCo2EndBattleText1::
-	text "How"
-	line "did you know I"
-	cont "was a ROCKET?"
+	text "How did you know"
+	line "I was with the"
+	cont "SOUTHSIDE?"
 	prompt
 
 _SilphCo2AfterBattleText1::
 	text "I work for both"
-	line "SILPH and TEAM"
-	cont "ROCKET!"
+	line "SILPH and The"
+	cont "SOUTHSIDE!"
 	done
 
 _SilphCo2BattleText2::
@@ -93,5 +93,5 @@ _SilphCo2EndBattleText4::
 _SilphCo2AfterBattleText4::
 	text "SILPH CO. will"
 	line "be merged with"
-	cont "TEAM ROCKET!"
+	cont "The SOUTHSIDE!"
 	done
