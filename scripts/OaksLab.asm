@@ -1021,7 +1021,7 @@ OaksLabText18:
 	call PrintText
 	xor a
 	ld [wMonDataLocation], a
-	ld a, 90 ; Change this back to 5
+	ld a, 5 ; Change this back to 5
 	ld [wCurEnemyLVL], a
 	ld a, STARTER_PIKACHU
 	ld [wd11e], a
@@ -1084,7 +1084,7 @@ OaksLabCoquiToughenUpText:
 
 OaksLabText26:
 	text_asm
-	ldpikacry e, PikachuCry2
+	ldpikacry e, PikachuCry6
 	callfar PlayPikachuSoundClip
 	ld hl, OaksLabPikachuDislikesPokeballsText1
 	call PrintText

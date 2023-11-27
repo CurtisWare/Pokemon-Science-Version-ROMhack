@@ -2,27 +2,29 @@ _CallieBeforeBattleText::
 	text "I am CALLIE of"
 	line "the ELITE FOUR!"
 
-	para "Through rigorous"
-	line "training, people"
-	cont "and #MON can"
-	cont "become stronger!"
+	para "I am the magical"
+	line "girl of the"
+	cont "group!"
 
-	para "I've weight"
-	line "trained with"
-	cont "my #MON!"
+	para "I use NORMAL"
+	line "TYPE Pokemon"
+	cont "because they're"
+	cont "so THICK!"
 
-	para "<PLAYER>!"
+	para "Nyaa!"
 
-	para "We will grind you"
-	line "down with our"
-	cont "superior power!"
+	para "I hope you've"
+	line "been taking care"
+	cont "of cat pokemon"
+	cont "on your way!"
 
-	para "Hoo hah!"
+	para "Because..."
+	line "If you haven't!"
 	done
 
 _CallieEndBattleText::
-	text "Why?"
-	line "How could I lose?"
+	text "Nyaa!"
+	line "You beat me?"
 	prompt
 
 _CallieAfterBattleText::

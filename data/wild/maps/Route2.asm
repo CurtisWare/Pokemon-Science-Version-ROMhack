@@ -1,8 +1,8 @@
 Route2WildMons:
 	def_grass_wildmons 25 ; encounter rate
-	db  3, BILLY ; RATTATA
-	db  3, MEATHEAD  ; PIDGEY
-	db  4, RATTATA
+	db  3, RATTATA ; RATTATA
+	db  3, PIDGEY  ; PIDGEY
+	db  4, BUD
 	db  4, NIDORAN_M
 	db  4, NIDORAN_F
 	db  5, PIDGEY

@@ -1508,121 +1508,121 @@ _MewDexEntry::
 	dex
 
 _BirdRobotDexEntry::
-	text "It keeps its tail"
-	next "raised to monitor"
-	next "its surroundings."
+	text "A Robotic BIRD"
+	next "<PLAYER> built"
+	next "in her lab."
 
-	page "If you yank its"
-	next "tail, it will try"
-	next "to bite you"
+	page "Its possesed by"
+	next "a sentient, silly"
+	next "computer virus"
 	dex
 
 _MeatheadDexEntry::
-	text "It keeps its tail"
-	next "raised to monitor"
-	next "its surroundings."
+	text "A sentient little"
+	next "creature made up"
+	next "of meat."
 
-	page "If you yank its"
-	next "tail, it will try"
-	next "to bite you"
+	page "The finer points"
+	next "of its anatomy"
+	next "are unknown"
 	dex
 
 _NuggzDexEntry::
-	text "It keeps its tail"
-	next "raised to monitor"
-	next "its surroundings."
+	text "A powerful, but"
+	next "pleasing smell"
+	next "follows it."
 
-	page "If you yank its"
-	next "tail, it will try"
-	next "to bite you"
+	page "If you spend"
+	next "channel points,"
+	next "it talks for you"
 	dex
 
 _CannoliDexEntry::
-	text "It keeps its tail"
-	next "raised to monitor"
-	next "its surroundings."
+	text "What exactly IS"
+	next "an Anole?"
+	next "No on knows."
 
-	page "If you yank its"
-	next "tail, it will try"
-	next "to bite you"
+	page "This guy sure"
+	next "has an attitude"
+	next "though"
 	dex
 
 _LitterbugDexEntry::
-	text "It keeps its tail"
-	next "raised to monitor"
-	next "its surroundings."
+	text "A friendly bug"
+	next "creature that"
+	next "chills on stream."
 
-	page "If you yank its"
-	next "tail, it will try"
-	next "to bite you"
+	page "Occasionally, it"
+	next "says some REAL"
+	next "weird stuff"
 	dex
 
 _KreolaDexEntry::
-	text "It keeps its tail"
-	next "raised to monitor"
-	next "its surroundings."
+	text "It spends more"
+	next "time making art"
+	next "than battling."
 
-	page "If you yank its"
-	next "tail, it will try"
-	next "to bite you"
+	page "It sometimes"
+	next "cries WATERMELON"
+	next "MEOW MEOW"
 	dex
 
 _GuchaDexEntry::
-	text "It keeps its tail"
-	next "raised to monitor"
-	next "its surroundings."
+	text "A cottagecore"
+	next "hamster that's"
+	next "ready to fight."
 
-	page "If you yank its"
-	next "tail, it will try"
-	next "to bite you"
+	page "Its secretly a"
+	next "bit of a hater,"
+	next "which is cool"
 	dex
 
 _BudDexEntry::
-	text "It keeps its tail"
-	next "raised to monitor"
-	next "its surroundings."
+	text "BUD!"
+	next "RRRRR!"
+	next "RRAT!."
 
-	page "If you yank its"
-	next "tail, it will try"
-	next "to bite you"
+	page "Give it a"
+	next "New York style"
+	next "slice"
 	dex
 
 _FrexelDexEntry::
-	text "Lives where reedy"
-	next "plants grow. They"
-	next "are rarely seen,"
+	text "Tiny, wise bird."
+	next "There isn't a "
+	next "person alive"
 
-	page "so it's thought"
-	next "their numbers are"
-	next "decreasing"
+	page "who doesn't"
+	next "absolutely love"
+	next "this chicken"
 	dex
 
 _NellieDexEntry::
-	text "According to an"
-	next "enduring legend,"
-	next "9 noble saints"
+	text "Half cowboy, half"
+	next "possum. Often"
+	next "seen hanging"
 
-	page "were united and"
-	next "reincarnated as"
-	next "this #MON"
+	page "around with a"
+	next "large spider."
+	next "Has IBS"
 	dex
 
 _IcyDexEntry::
-	text "According to an"
-	next "enduring legend,"
-	next "9 noble saints"
+	text "ICY is known"
+	next "to be a great"
+	next "artist."
 
-	page "were united and"
-	next "reincarnated as"
-	next "this #MON"
+	page "Has a powerful"
+	next "affinity for"
+	next "Neco Arc"
 	dex
 
 _BillyDexEntry::
-	text "According to an"
-	next "enduring legend,"
-	next "9 noble saints"
+	text "Many people have"
+	next "guessed what is"
+	next "inside of a"
 
-	page "were united and"
-	next "reincarnated as"
-	next "this #MON"
+	page "Billy, but the"
+	next "answer is just"
+	next "swag"
 	dex

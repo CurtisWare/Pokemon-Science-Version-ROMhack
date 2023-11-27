@@ -74,7 +74,7 @@ _Route22CoquiBeforeBattleText2::
 	line "#MON LEAGUE?"
 
 	para "You collected all"
-	line "the BADGEs too?"
+	line "OCHO BADGEs too?"
 	cont "That's cool!"
 
 	para "Then I'll whip"

@@ -1,50 +1,47 @@
 _RummyPreBattleText::
-	text "Fwahahaha! This is"
-	line "my hideout!"
+	text "<PLAYER>! WELL!"
+	line "WELL! WELL!"
 
-	para "I planned to"
-	line "resurrect TEAM"
-	cont "ROCKET here!"
+	para "That's right!"
+	line "I'm the Leader "
+	cont "of this gym..."
 
-	para "But, you have"
-	line "caught me again!"
-	cont "So be it! This"
-	cont "time, I'm not"
-	cont "holding back!"
+	para "...and ALSO"
+	line "The SOUTHSIDE!"
 
 	para "Once more, you"
 	line "shall face"
 	cont "RUMMY, the"
-	cont "greatest trainer!"
+	cont "No. 1 BOSS!"
 	done
 
 _ReceivedEarthBadgeText::
-	text "Ha!"
+	text "Hahaha!"
 	line "That was a truly"
 	cont "intense fight!"
 	cont "You have won!"
 	cont "As proof, here is"
-	cont "the EARTHBADGE!@"
+	cont "the BOSSBADGE!@"
 	text_end
 
 _RummyPostBattleAdviceText::
 	text "Having lost, I"
-	line "cannot face my"
-	cont "underlings!"
-	cont "TEAM ROCKET is"
-	cont "finished forever!"
+	line "must retreat..."
+	cont "but..."
+	cont "The SOUTHSIDE is"
+	cont "forever!"
 
 	para "I will dedicate my"
 	line "life to the study"
 	cont "of #MON!"
 
-	para "Let us meet again"
-	line "someday!"
-	cont "Farewell!@"
+	para "And Remember!"
+	line "The BOSS"
+	cont "Loves Ya Big!@"
 	text_end
 
 _RummyEarthBadgeInfoText::
-	text "The RUMBADGE"
+	text "The BOSSBADGE"
 	line "makes #MON of"
 	cont "any level obey!"
 
@@ -229,8 +226,8 @@ _ViridianGymGuidePreBattleText::
 
 	para "I heard that the"
 	line "trainers here"
-	cont "like ground-type"
-	cont "#MON!"
+	cont "use different"
+	cont "types of #MON!"
 	done
 
 _ViridianGymGuidePostBattleText::

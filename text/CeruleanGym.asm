@@ -1,22 +1,18 @@
 _KoopaPreBattleText::
-	text "Hi, you're a new"
-	line "face!"
+	text "Well, hello"
+	line "there!"
 
-	para "What's your policy"
-	line "on #MON? What"
-	cont "is your approach?"
-
-	para "My policy is an"
-	line "all-out offensive"
-	cont "with water-type"
-	cont "#MON!"
+	para "What's your"
+	line "opinion on the"
+	cont "fantastic turtle"
+	cont "#MON?"
 
 	para "KOOPA, the world-"
-	line "famous beauty, is"
-	cont "your host!"
+	line "famous turtle-"
+	cont "tuber is here!"
 
-	para "Are you ready,"
-	line "sweetie?"
+	para "I'll show you"
+	line "a living shell!"
 	done
 
 _TM11ExplanationText::

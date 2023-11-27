@@ -5,9 +5,9 @@ _CinnabarIslandText8::
 
 _CinnabarIslandText1::
 	text "CINNABAR GYM's"
-	line "DANCE is an odd"
-	cont "man who has lived"
-	cont "here for decades."
+	line "DANCE is a real"
+	cont "man of the"
+	cont "people!"
 	done
 
 _CinnabarIslandText2::
@@ -32,6 +32,6 @@ _CinnabarIslandText7::
 	line "#MON GYM"
 	cont "LEADER: DANCE"
 
-	para "The Hot-Headed"
-	line "Quiz Master!"
+	para "The Arm of the"
+	line "Proletariat!"
 	done

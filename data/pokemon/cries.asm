@@ -57,7 +57,7 @@ CryData::
 	mon_cry SFX_CRY_12, $E0, $40 ; Golem
 	mon_cry SFX_CRY_1A, $10, $20 ; Nuggz
 	mon_cry SFX_CRY_04, $FF, $30 ; Magmar
-	mon_cry SFX_CRY_1A, $AA, $FF ; Cannoli
+	mon_cry SFX_CRY_18, $AA, $FF ; Cannoli
 	mon_cry SFX_CRY_06, $8F, $FF ; Electabuzz
 	mon_cry SFX_CRY_1C, $20, $C0 ; Magneton
 	mon_cry SFX_CRY_12, $E6, $DD ; Koffing
@@ -67,7 +67,7 @@ CryData::
 	mon_cry SFX_CRY_0B, $AA, $01 ; Diglett
 	mon_cry SFX_CRY_1D, $11, $40 ; Tauros
 	mon_cry SFX_CRY_0C, $EE, $C0 ; Kreola
-	mon_cry SFX_CRY_12, $80, $C0 ; Gucha
+	mon_cry SFX_CRY_05, $FF, $C0 ; Gucha
 	mon_cry SFX_CRY_22, $20, $FF ; Bud
 	mon_cry SFX_CRY_10, $DD, $01 ; Farfetch'd
 	mon_cry SFX_CRY_1A, $44, $40 ; Venonat

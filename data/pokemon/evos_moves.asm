@@ -552,13 +552,13 @@ BirdEvosMoves:
 	db 0
 ; Learnset
 	db 7, SOIL
-	db 9, QUICK_ATTACK
-	db 13, CROP_DUST
-	db 20, LAY_PIPE
-	db 26, LAY_PIPE ; MALD
+	db 9, SWIFT
+	db 13, WING_ATTACK
+	db 20, CROP_DUST
+	db 26, DRILL_PECK ; MALD
 	db 33, CROP_DUST ; AGILITY
-	db 41, BAJA_BLAST
-	db 50, SWIFT ; LIGHT_SCREEN
+	db 41, SWIFT
+	db 50, BAJA_BLAST ; LIGHT_SCREEN
 	db 0
 
 
@@ -993,11 +993,11 @@ FrexelEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
-	db 7, LEER
-	db 15, FURY_ATTACK
-	db 23, SWORDS_DANCE
-	db 31, AGILITY
-	db 39, SLASH
+	db 7, WING_ATTACK
+	db 15, LAY_PIPE
+	db 23, RIZZED_UP
+	db 31, DRILL_PECK
+	db 39, ARA_ARA
 	db 0
 
 NellieEvosMoves:
@@ -1005,7 +1005,7 @@ NellieEvosMoves:
 	db 0
 ; Learnset
 	db 16, QUICK_ATTACK
-	db 21, ROAR
+	db 21, CROP_DUST
 	db 28, CONFUSE_RAY
 	db 35, FLAMETHROWER
 	db 42, FIRE_SPIN

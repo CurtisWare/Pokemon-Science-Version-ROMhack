@@ -8,7 +8,7 @@ VictoryRoad2FWildMons:
 	db 44, GRAVELER
 	db 45, ONIX
 	db 47, ONIX
-	db 39, MACHOKE
+	db 39, EEVEE
 	db 42, MACHOKE
 	end_grass_wildmons
 

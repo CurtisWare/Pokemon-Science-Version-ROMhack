@@ -1,6 +1,6 @@
 PowerPlantWildMons:
 	def_grass_wildmons 10 ; encounter rate
-	db 30, MAGNEMITE
+	db 30, ELECTABUZZ
 	db 35, MAGNEMITE
 	db 33, MAGNETON
 	db 33, VOLTORB

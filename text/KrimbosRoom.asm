@@ -1,44 +1,35 @@
 _KrimboBeforeBattleText::
-	text "Ah! I heard about"
-	line "you, <PLAYER>!"
+	text "HAHAHA! I heard"
+	line "about you!!"
 
 	para "I lead the ELITE"
 	line "FOUR! You can"
-	cont "call me KRIMBO the"
+	cont "call me KRIMBO,"
 	cont "King Kriminal!"
 
 	para "You know that"
-	line "dragons are"
-	cont "mythical #MON!"
+	line "all power comes"
+	cont "from BIG BIG"
+	cont "MUSCLES!"
 
-	para "They're hard to"
-	line "catch and raise,"
-	cont "but their powers"
-	cont "are superior!"
-
-	para "They're virtually"
-	line "indestructible!"
-
-	para "Well, are you"
-	line "ready to lose?"
-
-	para "Your LEAGUE"
-	line "challenge ends"
-	cont "with me, <PLAYER>!"
+	para "HAHA! COME TO"
+	line "ME, <PLAYER>!"
+	cont "Feel the sweat"
+	cont "of my embrace!"
 	done
 
 _KrimboEndBattleText::
-	text "That's it!"
+	text "GAHA!"
 
-	para "I hate to admit"
-	line "it, but you are a"
-	cont "#MON master!"
+	para "You truly are"
+	line "a #MON"
+	cont "master!"
 	prompt
 
 _KrimboAfterBattleText::
 	text "I still can't"
 	line "believe my"
-	cont "dragons lost to"
+	cont "muscles lost to"
 	cont "you, <PLAYER>!"
 
 	para "You are now the"
@@ -52,13 +43,14 @@ _KrimboAfterBattleText::
 
 	para "You have to face"
 	line "another trainer!"
-	cont "His name is..."
+	cont "Her name is..."
 
 	para "<COQUI>!"
-	line "He beat the ELITE"
-	cont "FOUR before you!"
+	line "She beat the"
+	cont "ELITE FOUR just"
+	cont "before you!"
 
-	para "He is the real"
+	para "She is the real"
 	line "#MON LEAGUE"
 	cont "champion!@"
 	text_end

@@ -4,7 +4,7 @@ PikachuEmotion0:
 PikachuEmotion2:
 	pikaemotion_dummy2
 	pikaemotion_emotebubble SMILE_BUBBLE
-	pikaemotion_pcm PikachuCry35
+	pikaemotion_pcm PikachuCry1
 	pikaemotion_pikapic PikaPicAnimScript10
 	db $ff
 
@@ -12,7 +12,7 @@ PikachuEmotion10:
 	pikaemotion_dummy2
 	pikaemotion_subcmd PIKAEMOTION_SUBCMD_LOADEXTRAPIKASPRITES
 	pikaemotion_emotebubble HEART_BUBBLE
-	pikaemotion_pcm PikachuCry5
+	pikaemotion_pcm PikachuCry2
 	pikaemotion_pikapic PikaPicAnimScript10
 	db $ff
 
@@ -20,7 +20,7 @@ PikachuEmotion7:
 	pikaemotion_dummy2
 	pikaemotion_subcmd PIKAEMOTION_SUBCMD_LOADEXTRAPIKASPRITES
 	pikaemotion_movement PikachuMovementData_fd224
-	pikaemotion_pcm PikachuCry1
+	pikaemotion_pcm PikachuCry3
 	pikaemotion_movement PikachuMovementData_fd224
 	pikaemotion_pikapic PikaPicAnimScript10
 	db $ff
@@ -29,7 +29,7 @@ PikachuEmotion4:
 	pikaemotion_dummy2
 	pikaemotion_subcmd PIKAEMOTION_SUBCMD_LOADEXTRAPIKASPRITES
 	pikaemotion_movement PikachuMovementData_fd230
-	pikaemotion_pcm PikachuCry29
+	pikaemotion_pcm PikachuCry4
 	pikaemotion_pikapic PikaPicAnimScript10
 	db $ff
 
@@ -41,13 +41,13 @@ PikachuEmotion1:
 
 PikachuEmotion8:
 	pikaemotion_dummy2
-	pikaemotion_pcm PikachuCry39
+	pikaemotion_pcm PikachuCry5
 	pikaemotion_pikapic PikaPicAnimScript10
 	db $ff
 
 PikachuEmotion5:
 	pikaemotion_dummy2
-	pikaemotion_pcm PikachuCry31
+	pikaemotion_pcm PikachuCry6
 	pikaemotion_pikapic PikaPicAnimScript10
 	db $ff
 
@@ -62,7 +62,7 @@ PikachuEmotion6:
 
 PikachuEmotion3:
 	pikaemotion_dummy2
-	pikaemotion_pcm PikachuCry40
+	pikaemotion_pcm PikachuCry1
 	pikaemotion_pikapic PikaPicAnimScript10
 	db $ff
 
@@ -77,7 +77,7 @@ PikachuEmotion9:
 
 PikachuEmotion11:
 	pikaemotion_emotebubble ZZZ_BUBBLE
-	pikaemotion_pcm PikachuCry37
+	pikaemotion_pcm PikachuCry2
 	pikaemotion_pikapic PikaPicAnimScript10
 	db $ff
 
@@ -97,25 +97,25 @@ PikachuEmotion13:
 PikachuEmotion14:
 	pikaemotion_dummy2
 	pikaemotion_emotebubble BOLT_BUBBLE
-	pikaemotion_pcm PikachuCry10
+	pikaemotion_pcm PikachuCry3
 	pikaemotion_pikapic PikaPicAnimScript10
 	db $ff
 
 PikachuEmotion15:
 	pikaemotion_dummy2
-	pikaemotion_pcm PikachuCry34
+	pikaemotion_pcm PikachuCry4
 	pikaemotion_pikapic PikaPicAnimScript10
 	db $ff
 
 PikachuEmotion16:
 	pikaemotion_dummy2
-	pikaemotion_pcm PikachuCry33
+	pikaemotion_pcm PikachuCry5
 	pikaemotion_pikapic PikaPicAnimScript10
 	db $ff
 
 PikachuEmotion17:
 	pikaemotion_dummy2
-	pikaemotion_pcm PikachuCry13
+	pikaemotion_pcm PikachuCry1
 	pikaemotion_pikapic PikaPicAnimScript10
 	db $ff
 
@@ -128,7 +128,7 @@ PikachuEmotion18:
 PikachuEmotion19:
 	pikaemotion_dummy2
 	pikaemotion_emotebubble HEART_BUBBLE
-	pikaemotion_pcm PikachuCry33
+	pikaemotion_pcm PikachuCry2
 	pikaemotion_pikapic PikaPicAnimScript10
 	db $ff
 
@@ -154,7 +154,7 @@ PikachuEmotion22:
 
 PikachuEmotion23:
 	pikaemotion_dummy2
-	pikaemotion_pcm PikachuCry19
+	pikaemotion_pcm PikachuCry3
 	pikaemotion_pikapic PikaPicAnimScript10
 	pikaemotion_subcmd PIKAEMOTION_SUBCMD_SHOWMAPVIEW
 	db $ff
@@ -169,14 +169,14 @@ PikachuEmotion24:
 PikachuEmotion25:
 	pikaemotion_dummy2
 	pikaemotion_emotebubble BOLT_BUBBLE
-	pikaemotion_pcm PikachuCry35
+	pikaemotion_pcm PikachuCry6
 	pikaemotion_pikapic PikaPicAnimScript10
 	db $ff
 
 PikachuEmotion26:
 	pikaemotion_dummy2
 	pikaemotion_emotebubble ZZZ_BUBBLE
-	pikaemotion_pcm PikachuCry37
+	pikaemotion_pcm PikachuCry1
 	pikaemotion_pikapic PikaPicAnimScript10
 	pikaemotion_subcmd PIKAEMOTION_SUBCMD_SHOWMAPVIEW
 	pikaemotion_subcmd PIKAEMOTION_SUBCMD_CHECKPEWTERCENTER
@@ -184,13 +184,13 @@ PikachuEmotion26:
 
 PikachuEmotion27:
 	pikaemotion_dummy2
-	pikaemotion_pcm PikachuCry9
+	pikaemotion_pcm PikachuCry2
 	pikaemotion_pikapic PikaPicAnimScript10
 	db $ff
 
 PikachuEmotion28:
 	pikaemotion_dummy2
-	pikaemotion_pcm PikachuCry15
+	pikaemotion_pcm PikachuCry3
 	pikaemotion_pikapic PikaPicAnimScript10
 	db $ff
 
@@ -210,14 +210,14 @@ PikachuEmotion30:
 	db $ff
 
 PikachuEmotion31:
-	pikaemotion_pcm PikachuCry19
+	pikaemotion_pcm PikachuCry4
 	pikaemotion_pikapic PikaPicAnimScript10
 	pikaemotion_subcmd PIKAEMOTION_SUBCMD_SHOWMAPVIEW
 	pikaemotion_subcmd PIKAEMOTION_SUBCMD_CHECKBILLSHOUSE
 	db $ff
 
 PikachuEmotion32:
-	pikaemotion_pcm PikachuCry26
+	pikaemotion_pcm PikachuCry6
 	pikaemotion_pikapic PikaPicAnimScript10
 	db $ff
 

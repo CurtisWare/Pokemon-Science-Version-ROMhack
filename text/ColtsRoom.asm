@@ -5,25 +5,18 @@ _ColtBeforeBattleText::
 	para "I am COLT of"
 	line "the ELITE FOUR!"
 
-	para "No one can best"
-	line "me when it comes"
-	cont "to icy #MON!"
+	para "The wild west"
+	line "can be a"
+	cont "SHOCKING place!"
 
-	para "Freezing moves"
-	line "are powerful!"
-
-	para "Your #MON will"
-	line "be at my mercy"
-	cont "when they are"
-	cont "frozen solid!"
-
-	para "Hahaha!"
-	line "Are you ready?"
+	para "I hope you"
+	line "brought some"
+	cont "PARALYZE HEAL!"
 	done
 
 _ColtEndBattleText::
-	text "How"
-	line "dare you!"
+	text "YEEHAW!"
+	line "Look at you!"
 	prompt
 
 _ColtAfterBattleText::
@@ -31,9 +24,9 @@ _ColtAfterBattleText::
 	line "than I thought!"
 	cont "Go on ahead!"
 
-	para "You only got a"
-	line "taste of #MON"
-	cont "LEAGUE power!"
+	para "Come back"
+	line "sometime for"
+	cont "some mahjong!"
 	done
 
 _ColtDontRunAwayText::

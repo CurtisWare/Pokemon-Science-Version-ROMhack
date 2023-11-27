@@ -30,7 +30,7 @@ PokedexEntryPointers:
 	dw BlastoiseDexEntry
 	dw PinsirDexEntry
 	dw TangelaDexEntry
-	dw PikachuDexEntry
+	dw BirdRobotDexEntry
 	dw MeatheadDexEntry
 	dw GrowlitheDexEntry
 	dw OnixDexEntry
@@ -83,7 +83,7 @@ PokedexEntryPointers:
 	dw MissingNoDexEntry
 	dw VulpixDexEntry
 	dw NinetalesDexEntry
-	dw BirdRobotDexEntry
+	dw PikachuDexEntry
 	dw RaichuDexEntry
 	dw MissingNoDexEntry
 	dw MissingNoDexEntry
@@ -366,7 +366,7 @@ ArbokDexEntry:
 	text_end
 
 PikachuDexEntry:
-	db "ROBOT@"
+	db "MOUSE@"
 	db 1,4
 	dw 130
 	text_far _PikachuDexEntry
@@ -1255,9 +1255,9 @@ MewDexEntry:
 	text_end
 
 BirdRobotDexEntry:
-	db "MOUSE@"
-	db 1,4
-	dw 130
+	db "ROBOT@"
+	db 5,4
+	dw 1400
 	text_far _BirdRobotDexEntry
 	text_end
 
@@ -1325,16 +1325,16 @@ NellieDexEntry:
 	text_end
 
 IcyDexEntry:
-	db "GAS@"
+	db "GHOST@"
 	db 4,3
 	dw 2
 	text_far _IcyDexEntry
 	text_end
 
 BillyDexEntry:
-	db "GAS@"
+	db "TRASHCAN@"
 	db 4,3
-	dw 2
+	dw 100
 	text_far _BillyDexEntry
 	text_end
 

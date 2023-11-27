@@ -7,7 +7,7 @@ VictoryRoad1FWildMons:
 	db 44, ZUBAT
 	db 41, GEODUDE
 	db 43, ONIX
-	db 45, ONIX
+	db 45, EEVEE
 	db 41, GRAVELER
 	db 47, GRAVELER
 	end_grass_wildmons

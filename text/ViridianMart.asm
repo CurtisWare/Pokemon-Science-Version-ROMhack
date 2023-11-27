@@ -28,6 +28,6 @@ _ViridianMartText2::
 
 _ViridianMartText3::
 	text "The shop finally"
-	line "has some POTIONs"
+	line "has some SUPPS"
 	cont "in stock."
 	done

@@ -62,7 +62,7 @@ DayCareMText1:
 	jr .asm_562e3
 
 .depositedPikachuIntoDayCare
-	ldpikacry e, PikachuCry28
+	ldpikacry e, PikachuCry3
 	callfar PlayPikachuSoundClip
 .asm_562e3
 	ld hl, DayCareComeSeeMeInAWhileText
@@ -225,7 +225,7 @@ DayCareMText1:
 	ld b, BANK(SchedulePikachuSpawnForAfterText)
 	ld hl, Bankswitch
 
-	ldpikacry e, PikachuCry35
+	ldpikacry e, PikachuCry5
 	callfar PlayPikachuSoundClip
 .asm_56430
 	ld hl, DayCareGotMonBackText

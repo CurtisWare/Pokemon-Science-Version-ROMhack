@@ -1,6 +1,6 @@
 Route11WildMons:
 	def_grass_wildmons 15 ; encounter rate
-	db 16, PIDGEY
+	db 16, SCYTHER
 	db 15, RATTATA
 	db 18, PIDGEY
 	db 15, DROWZEE

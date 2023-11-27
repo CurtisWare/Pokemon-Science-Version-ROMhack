@@ -5,9 +5,9 @@ _GaryChampionIntroText::
 	line "forward to seeing"
 	cont "you, <PLAYER>!"
 
-	para "My coqui should"
-	line "be strong to keep"
-	cont "me sharp!"
+	para "I'm glad you're"
+	line "here to see what"
+	cont "I've done!"
 
 	para "While working on"
 	line "#DEX, I looked"
@@ -25,27 +25,30 @@ _GaryChampionIntroText::
 	line "LEAGUE champion!"
 
 	para "<PLAYER>! Do you"
-	line "know what that"
-	cont "means?"
+	line "know what time"
+	cont "it is?"
 
 	para "I'll tell you!"
 
-	para "I am the most"
-	line "powerful trainer"
+	para "It's 3AM!"
+
+	para "Time for me to"
+	line "become the "
+	cont "greatest trainer"
 	cont "in the world!"
 	done
 
 _GaryDefeatedText::
 	text "NO!"
-	line "That can't be!"
+	line "N... No way!"
 	cont "You beat my best!"
 
 	para "After all that"
 	line "work to become"
 	cont "LEAGUE champ?"
 
-	para "My reign is over"
-	line "already?"
+	para "AARRRGGH"
+	line "Noooo!"
 	cont "It's not fair!"
 	prompt
 
@@ -73,12 +76,11 @@ _GaryText_76103::
 	line "mistakes raising"
 	cont "my #MON..."
 
-	para "Darn it! You're"
-	line "the new #MON"
-	cont "LEAGUE champion!"
+	para "This... this"
+	line "isn't cute! So"
+	cont "don't you say"
+	cont "it!"
 
-	para "Although I don't"
-	line "like to admit it."
 	done
 
 _GaryText2::

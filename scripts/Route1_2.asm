@@ -3,7 +3,7 @@ Func_f1ad2::
 	jr nz, .got_item
 	ld hl, Route1ViridianMartSampleText
 	call PrintText
-	lb bc, MASTER_BALL, 90
+	lb bc, POTION, 1
 	call GiveItem
 	jr nc, .bag_full
 	ld hl, Route1Text_1cae8

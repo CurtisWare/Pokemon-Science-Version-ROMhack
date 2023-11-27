@@ -14,8 +14,8 @@ _DancePreBattleText::
 	done
 
 _ReceivedVolcanoBadgeText::
-	text "I have"
-	line "burnt out!"
+	text "You"
+	line "grounded me!"
 
 	para "You have earned"
 	line "the PEOPLESBADGE!@"
@@ -148,14 +148,17 @@ _CinnabarGymEndBattleText5::
 	prompt
 
 _CinnabarGymAfterBattleText5::
-	text "DANCE was lost"
-	line "in the mountains"
-	cont "when a fiery bird"
-	cont "#MON appeared."
+	text "DANCE saw the"
+	line "situation that"
+	cont "all laborers"
+	cont "were in."
 
-	para "Its light enabled"
-	line "DANCE to find"
-	cont "his way down!"
+	para "He dedicated"
+	line "himself to "
+	cont "fighting the"
+	cont "bourgeois with"
+
+	para "POKEMON!"
 	done
 
 _CinnabarGymBattleText6::
@@ -195,20 +198,18 @@ _CinnabarGymGuidePreBattleText::
 	text "Yo! Champ in"
 	line "making!"
 
-	para "The hot-headed"
-	line "DANCE is a fire"
+	para "The grounded"
+	line "DANCE is a earth"
 	cont "#MON pro!"
 
 	para "Douse his spirits"
 	line "with water!"
 
-	para "You better take"
-	line "some BURN HEALs!"
 	done
 
 _CinnabarGymGuidePostBattleText::
 	text "<PLAYER>! You beat"
-	line "that fire brand!"
+	line "DANCE!"
 	done
 
 _CinnabarGymText_1::

@@ -1,7 +1,7 @@
 Route24WildMons:
 	def_grass_wildmons 25 ; encounter rate
-	db 12, LITTERBUG ; ODDISH
-	db 12, NUGGZ ; BELLSPROUT
+	db 12, MEATHEAD ; ODDISH
+	db 12, MEATHEAD ; BELLSPROUT
 	db 13, PIDGEY
 	db 14, ODDISH
 	db 14, BELLSPROUT
